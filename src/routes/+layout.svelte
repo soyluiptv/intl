@@ -1,6 +1,7 @@
 <script lang="ts">
   import { SvelteToast } from '@zerodevx/svelte-toast'
   import Modal from 'svelte-simple-modal'
+  import { Disclaimer } from '$lib/components'
   import type { Snippet } from 'svelte'
   import './+layout.css'
 
@@ -17,6 +18,7 @@
     dismissable: false,
     classes: ['custom']
   }
+
 </script>
 
 <svelte:head>
@@ -42,6 +44,8 @@
 >
   {@render children?.()}
 </Modal>
+
+<Disclaimer />
 
 <SvelteToast options={toastOptions} />
 

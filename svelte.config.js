@@ -7,7 +7,7 @@ const config = {
       pages: 'docs',
       assets: 'docs',
       precompress: false,
-      strict: true
+      strict: false
     }),
     paths: {
       base: '/intl'
