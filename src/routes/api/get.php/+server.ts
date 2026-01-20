@@ -1,74 +1,111 @@
 import { json } from '@sveltejs/kit'
 import type { RequestHandler } from './$types'
-import { generateM3U, generateXtreamPlaylist, formatApiUrl } from '$lib/api.utils'
+import { loadData } from '$lib/api'
 
 /**
- * API endpoint for generating M3U and Xtream playlists
+ * Xtream Codes compatible API endpoint
  * GET /api/get.php?username=soylu&password=soylu123&type=m3u
+ * GET /api/get.php?username=soylu&password=soylu123&type=xtream
  */
 export const GET: RequestHandler = async ({ url }) => {
   try {
     const username = url.searchParams.get('username') || 'soylu'
     const password = url.searchParams.get('password') || 'soylu123'
     const type = url.searchParams.get('type') || 'm3u'
-    const format = url.searchParams.get('format') || 'json'
+    const country = url.searchParams.get('country')
 
-    // For demo purposes, return configuration info
+    // Validate credentials
+    if (username !== 'soylu' || password !== 'soylu123') {
+      return json({ message: 'Invalid credentials' }, { status: 401 })
+    }
+
+    // Load real data
+    const data = await loadData()
+
+    // Filter channels by country if specified
+    let channels = data.channels
+    if (country) {
+      channels = channels.filter(c => c.country === country.toUpperCase())
+    }
+
     if (type === 'm3u') {
-      const m3uContent = `#EXTM3U
-#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" tvg-logo="https://example.com/trt1.png" group-title="Kanallar",TRT 1
-http://example.com/stream/trt1
+      // Generate M3U playlist with real channel data
+      let m3uContent = '#EXTM3U\n'
 
-#EXTINF:-1 tvg-id="trt2" tvg-name="TRT 2" tvg-logo="https://example.com/trt2.png" group-title="Kanallar",TRT 2
-http://example.com/stream/trt2
+      for (const channel of channels) {
+        if (!channel.feeds || channel.feeds.length === 0) continue
 
-#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="https://example.com/atv.png" group-title="Kanallar",ATV
-http://example.com/stream/atv
-`
+        const tvgId = channel.id || channel.name.replace(/\s+/g, '_')
+        const tvgName = channel.name
+        const tvgLogo = channel.logos && channel.logos.length > 0 ? ` tvg-logo="${channel.logos[0].src}"` : ''
+        const categories = channel._categories || []
+        const group = categories.length > 0 ? categories[0].name : 'Uncategorized'
+
+        // Get the best feed/stream
+        const feed = channel.feeds[0]
+        let streamUrl = ''
+
+        if (feed && feed.feeds && feed.feeds.length > 0) {
+          streamUrl = feed.feeds[0].url || `https://soyluiptv.github.io/intl/api/stream.php?channel_id=${tvgId}`
+        } else if (channel.website) {
+          streamUrl = `https://soyluiptv.github.io/intl/api/stream.php?channel_id=${tvgId}`
+        } else {
+          continue
+        }
+
+        m3uContent += `#EXTINF:-1${tvgLogo} group-title="${group}",${tvgName}\n`
+        m3uContent += `${streamUrl}\n`
+      }
 
       return new Response(m3uContent, {
         headers: {
-          'Content-Type': 'audio/mpegurl',
-          'Content-Disposition': `attachment; filename="soylu-iptv-${Date.now()}.m3u"`,
+          'Content-Type': 'audio/mpegurl; charset=utf-8',
+          'Content-Disposition': `attachment; filename="soyluiptv-${country || 'all'}-${Date.now()}.m3u"`,
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
         },
       })
     }
 
     if (type === 'xtream') {
-      const xtreamConfig = {
-        username,
-        password,
-        server: 'soyluiptv.github.io/intl:80',
-        protocol: 'https',
-        portal: 'soyluiptv',
+      // Generate Xtream Codes playlist format
+      let m3uContent = '#EXTM3U\n'
+
+      for (const channel of channels) {
+        if (!channel.feeds || channel.feeds.length === 0) continue
+
+        const tvgId = channel.id || channel.name.replace(/\s+/g, '_')
+        const tvgName = channel.name
+        const tvgLogo = channel.logos && channel.logos.length > 0 ? ` tvg-logo="${channel.logos[0].src}"` : ''
+        const categories = channel._categories || []
+        const group = categories.length > 0 ? categories[0].name : 'Uncategorized'
+
+        m3uContent += `#EXTINF:-1${tvgLogo} group-title="${group}",${tvgName}\n`
+        m3uContent += `https://soyluiptv.github.io/intl/api/stream.php?channel_id=${tvgId}&username=${username}&password=${password}\n`
       }
 
-      if (format === 'json') {
-        return json(xtreamConfig)
-      }
-
-      // Return as text configuration
-      const configText = Object.entries(xtreamConfig)
-        .map(([key, value]) => `${key}=${value}`)
-        .join('\n')
-
-      return new Response(configText, {
+      return new Response(m3uContent, {
         headers: {
-          'Content-Type': 'text/plain',
-          'Content-Disposition': `attachment; filename="xtream-config.txt"`,
+          'Content-Type': 'audio/mpegurl; charset=utf-8',
+          'Content-Disposition': `attachment; filename="xtream-${country || 'all'}-${Date.now()}.m3u"`,
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
         },
       })
     }
 
+    // Default response with statistics
     return json({
       success: true,
-      message: 'API is working',
+      message: 'Soylu IPTV API',
+      username,
+      channels: channels.length,
+      country: country || 'all',
       endpoints: {
-        m3u: formatApiUrl('m3u', username, password),
-        xtream: formatApiUrl('xtream', username, password),
+        m3u: `https://soyluiptv.github.io/intl/api/get.php?username=${username}&password=${password}&type=m3u${country ? `&country=${country}` : ''}`,
+        xtream: `https://soyluiptv.github.io/intl/api/get.php?username=${username}&password=${password}&type=xtream${country ? `&country=${country}` : ''}`,
       },
     })
   } catch (error) {
-    return json({ error: 'Internal Server Error' }, { status: 500 })
+    console.error('API Error:', error)
+    return json({ error: 'Internal Server Error', message: String(error) }, { status: 500 })
   }
 }
