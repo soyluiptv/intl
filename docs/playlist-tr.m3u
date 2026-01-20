@@ -1,43 +1,36 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2500000
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1" tvg-logo="https://www.trtworld.com/media/tv_logos/trt1.png" group-title="Türkiye",TRT 1
-https://live.trt.com.tr/trt1/index.m3u8
-#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2" tvg-logo="https://www.trtworld.com/media/tv_logos/trt2.png" group-title="Türkiye",TRT 2
-https://live.trt.com.tr/trt2/index.m3u8
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://www.atv.com.tr/logo.png" group-title="Türkiye",ATV
-https://live.atv.com.tr/atv/index.m3u8
-#EXTINF:-1 tvg-id="show.tr" tvg-name="Show TV" tvg-logo="https://www.showtv.com.tr/logo.png" group-title="Türkiye",Show TV
-https://live.showtv.com.tr/showtv/index.m3u8
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://www.kanal7.com/logo.png" group-title="Türkiye",Kanal 7
-https://live.kanal7.com/kanal7/index.m3u8
-#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV" tvg-logo="https://www.ntv.com.tr/logo.png" group-title="Türkiye",NTV
-https://live.ntv.com.tr/ntv/index.m3u8
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN Türk" tvg-logo="https://www.cnnturk.com/logo.png" group-title="Türkiye",CNN Türk
-https://live.cnnturk.com.tr/cnnturk/index.m3u8
-#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="Habertürk" tvg-logo="https://www.haberturk.com/logo.png" group-title="Türkiye",Habertürk
-https://live.haberturk.com.tr/haberturk/index.m3u8
-#EXTINF:-1 tvg-id="sky.tr" tvg-name="Sky Türk" tvg-logo="https://www.skyturk.com/logo.png" group-title="Türkiye",Sky Türk
-https://live.skyturk.com.tr/skyturk/index.m3u8
-#EXTINF:-1 tvg-id="exxen.tr" tvg-name="Exxen" tvg-logo="https://www.exxen.com/logo.png" group-title="Türkiye",Exxen
-https://live.exxen.com.tr/exxen/index.m3u8
-#EXTINF:-1 tvg-id="alem.tr" tvg-name="A Haber" tvg-logo="https://www.ahaber.com.tr/logo.png" group-title="Türkiye",A Haber
-https://live.ahaber.com.tr/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="akitv.tr" tvg-name="AKİ TV" tvg-logo="https://www.akitv.com.tr/logo.png" group-title="Türkiye",AKİ TV
-https://live.akitv.com.tr/akitv/index.m3u8
-#EXTINF:-1 tvg-id="bestv.tr" tvg-name="BES TV" tvg-logo="https://www.bestv.com.tr/logo.png" group-title="Türkiye",BES TV
-https://live.bestv.com.tr/bestv/index.m3u8
-#EXTINF:-1 tvg-id="beyazturk.tr" tvg-name="Beyaz Türk" tvg-logo="https://www.beyazturk.com.tr/logo.png" group-title="Türkiye",Beyaz Türk
-https://live.beyazturk.com.tr/beyazturk/index.m3u8
-#EXTINF:-1 tvg-id="btv.tr" tvg-name="BTV" tvg-logo="https://www.btv.com.tr/logo.png" group-title="Türkiye",BTV
-https://live.btv.com.tr/btv/index.m3u8
-#EXTINF:-1 tvg-id="cay.tr" tvg-name="Çay TV" tvg-logo="https://www.caytv.com.tr/logo.png" group-title="Türkiye",Çay TV
-https://live.caytv.com.tr/caytv/index.m3u8
-#EXTINF:-1 tvg-id="ctv.tr" tvg-name="CTV" tvg-logo="https://www.ctv.com.tr/logo.png" group-title="Türkiye",CTV
-https://live.ctv.com.tr/ctv/index.m3u8
-#EXTINF:-1 tvg-id="dream.tr" tvg-name="Dream Türk" tvg-logo="https://www.dreamturk.com.tr/logo.png" group-title="Türkiye",Dream Türk
-https://live.dreamturk.com.tr/dreamturk/index.m3u8
-#EXTINF:-1 tvg-id="drtv.tr" tvg-name="DR TV" tvg-logo="https://www.drtv.com.tr/logo.png" group-title="Türkiye",DR TV
-https://live.drtv.com.tr/drtv/index.m3u8
-#EXTINF:-1 tvg-id="ebru.tr" tvg-name="Ebru TV" tvg-logo="https://www.ebrutv.com.tr/logo.png" group-title="Türkiye",Ebru TV
-https://live.ebrutv.com.tr/ebrutv/index.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Türkiye",TRT 1
+https://tv-trt1-live.mncdn.com/blutv_trt1_native/output.m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" group-title="Türkiye",NTV
+https://ntv.live.mstv.tv/ntv_web/output.m3u8
+#EXTINF:-1 tvg-id="kanal-d.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kanal_D_Turkey_logo.svg/200px-Kanal_D_Turkey_logo.svg.png" group-title="Türkiye",Kanal D
+https://d.tv.ntp.net/stream_d.m3u8
+#EXTINF:-1 tvg-id="star.tr" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Star_TV_Turkey_logo.svg/200px-Star_TV_Turkey_logo.svg.png" group-title="Türkiye",Star TV
+https://starplay.com.tr/stream.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fox_Turkey_logo.svg/200px-Fox_Turkey_logo.svg.png" group-title="Türkiye",FOX
+https://live-e2-fox.mstv.tv/fox_web/output.m3u8
+#EXTINF:-1 tvg-id="habertürk.tr" tvg-name="Habertürk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Haberturk_Turkey_logo.svg/200px-Haberturk_Turkey_logo.svg.png" group-title="Türkiye",Habertürk
+https://habertürk.live.mstv.tv/habertürk_web/output.m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/CNN_Turk_logo.svg/200px-CNN_Turk_logo.svg.png" group-title="Türkiye",CNN Türk
+https://cnn-turk-live.mncdn.com/blutv_cnnturk_native/output.m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/A_Haber_Turkey_logo.svg/200px-A_Haber_Turkey_logo.svg.png" group-title="Türkiye",A Haber
+https://ahabercanliyayin.radyotelevizyonu.com.tr/ahaberlive/playlist.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/TRT_2_Turkey_logo.svg/200px-TRT_2_Turkey_logo.svg.png" group-title="Türkiye",TRT 2
+https://tv-trt2-live.mncdn.com/blutv_trt2_native/output.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ATV_Turkey_logo.svg/200px-ATV_Turkey_logo.svg.png" group-title="Türkiye",ATV
+https://atv-live-e2.mncdn.com/blutv_atv_native/output.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TV Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TV_Net_Turkey_logo.svg/200px-TV_Net_Turkey_logo.svg.png" group-title="Türkiye",TV Net
+https://tvnet-live.mncdn.com/blutv_tvnet/output.m3u8
+#EXTINF:-1 tvg-id="show.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Show_TV_Turkey_logo.svg/200px-Show_TV_Turkey_logo.svg.png" group-title="Türkiye",Show TV
+https://show-tv-live.mncdn.com/blutv_showtv_native/output.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kanal_7_Turkey_logo.svg/200px-Kanal_7_Turkey_logo.svg.png" group-title="Türkiye",Kanal 7
+https://kanal7-live.mncdn.com/blutv_kanal7_native/output.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TEVE2_Turkey_logo.svg/200px-TEVE2_Turkey_logo.svg.png" group-title="Türkiye",TEVE2
+https://teve2-live.mncdn.com/blutv_teve2_native/output.m3u8
+#EXTINF:-1 tvg-id="tgc.tr" tvg-name="TGC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TGC_Turkey_logo.svg/200px-TGC_Turkey_logo.svg.png" group-title="Türkiye",TGC
+https://tgc-live.mncdn.com/blutv_tgc_native/output.m3u8
+#EXTINF:-1 tvg-id="haber-global.tr" tvg-name="Haber Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haber_Global_Turkey_logo.svg/200px-Haber_Global_Turkey_logo.svg.png" group-title="Türkiye",Haber Global
+https://habberglobal-live.mncdn.com/blutv_habberglobal_native/output.m3u8
+#EXTINF:-1 tvg-id="power.tr" tvg-name="Power Türk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Power_Turk_TV_logo.svg/200px-Power_Turk_TV_logo.svg.png" group-title="Türkiye",Power Türk TV
+https://power-turk-tv-live.mncdn.com/blutv_powerturktv_native/output.m3u8
