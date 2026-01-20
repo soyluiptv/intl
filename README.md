@@ -51,24 +51,60 @@ This platform is developed by administrators for **educational**, **learning**, 
 
 ## 🚀 Hızlı Başlangıç
 
-### Online Kullanım (En Kolay)
+### 🌐 Online - Herkes Kullanabilir (Ücretsiz)
 
-Tarayıcıda açın: **https://soyluiptv.github.io/intl**
+#### Web Sitesi
+👉 **https://soyluiptv.github.io/intl**
 
-### M3U ile VLC'de Açmak
+#### API Endpoint (M3U Playlist)
+```
+https://soyluiptv.github.io/intl/playlist-tr.m3u
+```
+
+Parametreler:
+- `username`: soylu
+- `password`: soylu123
+- `type`: m3u
+- `country`: TR (opsiyonel)
+
+### 📺 VLC'de Açmak (En Kolay)
 
 ```
-Medya → Açık Ağ Akışı
-https://soyluiptv.github.io/intl/api/get.php?username=soylu&password=soylu123&type=m3u
+1. VLC Media Player'ı aç
+2. Medya → Açık Ağ Akışı tıkla
+3. Aşağıdaki bağlantıyı yapıştır:
+   
+https://soyluiptv.github.io/intl/playlist-tr.m3u
 ```
 
-### Xtream Codes ile Perfect Player'da
+### 🔌 Xtream Codes (Perfect Player / IPTV Smarters)
 
+Perfect Player'da:
 ```
-Add Playlist
-Portal: https://soyluiptv.github.io/intl:80
+Add Playlist → Xtream Codes
+
+Portal: https://soyluiptv.github.io/intl
 Username: soylu
 Password: soylu123
+```
+
+IPTV Smarters'ta aynı bilgileri kullan.
+
+### 🎯 Tüm Ülkeler için Playlist
+
+Her ülke için bağlantı:
+```
+https://soyluiptv.github.io/intl/playlists/tr.m3u  (Türkiye)
+https://soyluiptv.github.io/intl/playlists/us.m3u  (USA)
+https://soyluiptv.github.io/intl/playlists/gb.m3u  (İngiltere)
+...ve 200+ ülke
+```
+
+### 📊 API JSON
+
+Tüm kanallar ve istatistikler:
+```
+https://soyluiptv.github.io/intl/api.json
 ```
 
 ---
@@ -97,6 +133,38 @@ npm run dev
 # 4. Tarayıcıda aç
 # http://localhost:5173
 ```
+
+### API Sunucusunu Çalıştırmak (Node.js)
+
+```bash
+# Ekspres sunucusunu başlat
+node server.js
+
+# Tarayıcıda: http://localhost:3000
+# M3U: http://localhost:3000/get.php?username=soylu&password=soylu123&type=m3u
+```
+
+---
+
+## ☁️ Ücretsiz Hosting
+
+Ücretsiz bir sunucu üzerinde deploy etmek için:
+
+### Replit (Önerilen)
+1. https://replit.com adresine git
+2. "Fork this repository" ile klonla
+3. `Run` tuşuna tıkla
+4. Public link'i herkesin görmesi için paylaş
+
+### Glitch
+1. https://glitch.com adresine git
+2. Repository'yi import et
+3. Otomatik olarak deploy edilir
+
+### Railway.app
+1. https://railway.app adresine git
+2. GitHub bağla
+3. Deploy et
 
 ### Production Build
 

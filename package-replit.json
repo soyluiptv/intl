@@ -1,0 +1,24 @@
+{
+  "name": "soylu-iptv-api",
+  "version": "1.0.0",
+  "description": "Professional IPTV Platform with M3U and Xtream Codes API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "iptv",
+    "m3u",
+    "xtream-codes",
+    "streaming",
+    "tv"
+  ],
+  "author": "Soylu IPTV",
+  "license": "Educational",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}

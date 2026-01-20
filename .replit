@@ -1,0 +1,1 @@
+run = "npm install express cors && node server.js"
