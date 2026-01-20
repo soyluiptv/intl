@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",CITV
-https://soyluiptv.github.io/intl/stream/CITV.ck.m3u8
-#EXTINF:-1 group-title="Music",tumuTeVarovaro TV
-https://soyluiptv.github.io/intl/stream/tumuTeVarovaroTV.ck.m3u8
-#EXTINF:-1 group-title="General",Vaka TV
-https://soyluiptv.github.io/intl/stream/VakaTV.ck.m3u8

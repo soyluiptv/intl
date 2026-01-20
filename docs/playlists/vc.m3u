@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Legislative",API
-https://soyluiptv.github.io/intl/stream/API.vc.m3u8
-#EXTINF:-1 group-title="Music",IKTV
-https://soyluiptv.github.io/intl/stream/IKTV.vc.m3u8
-#EXTINF:-1 group-title="General",SVG TV
-https://soyluiptv.github.io/intl/stream/SVGTV.vc.m3u8
-#EXTINF:-1 group-title="Culture",VC3TV
-https://soyluiptv.github.io/intl/stream/VC3TV.vc.m3u8

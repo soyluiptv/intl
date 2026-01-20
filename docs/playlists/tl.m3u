@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",GMN TV
-https://soyluiptv.github.io/intl/stream/GMNTV.tl.m3u8
-#EXTINF:-1 group-title="General",RTM Maubere
-https://soyluiptv.github.io/intl/stream/RTMMaubere.tl.m3u8
-#EXTINF:-1 group-title="General",TV Timor Leste
-https://soyluiptv.github.io/intl/stream/TVTimorLeste.tl.m3u8

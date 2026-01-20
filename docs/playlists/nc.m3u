@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",Caledonia
-https://soyluiptv.github.io/intl/stream/Caledonia.nc.m3u8
-#EXTINF:-1 group-title="Entertainment",Canal+ Caledonie
-https://soyluiptv.github.io/intl/stream/CanalPlusCaledonie.nc.m3u8
-#EXTINF:-1 group-title="General",Nouvelle Caledonie 1ere
-https://soyluiptv.github.io/intl/stream/NouvelleCaledonie1ere.nc.m3u8
-#EXTINF:-1 group-title="General",PACIFIC+
-https://soyluiptv.github.io/intl/stream/PACIFICPlus.nc.m3u8

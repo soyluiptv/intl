@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",RTB Aneka
-https://soyluiptv.github.io/intl/stream/RTBAneka.bn.m3u8
-#EXTINF:-1 group-title="General",RTB Go
-https://soyluiptv.github.io/intl/stream/RTBGo.bn.m3u8
-#EXTINF:-1 group-title="General",RTB Perdana
-https://soyluiptv.github.io/intl/stream/RTBPerdana.bn.m3u8
-#EXTINF:-1 group-title="General",RTB Sukmaindera
-https://soyluiptv.github.io/intl/stream/RTBSukmaindera.bn.m3u8

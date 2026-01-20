@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",4TCI
-https://soyluiptv.github.io/intl/stream/4TCI.tc.m3u8
-#EXTINF:-1 group-title="Culture",Island Eye TV
-https://soyluiptv.github.io/intl/stream/IslandEyeTV.tc.m3u8
-#EXTINF:-1 group-title="General",PTV 8
-https://soyluiptv.github.io/intl/stream/PTV8.tc.m3u8
-#EXTINF:-1 group-title="Business",Real Estate TV
-https://soyluiptv.github.io/intl/stream/RealEstateTV.tc.m3u8

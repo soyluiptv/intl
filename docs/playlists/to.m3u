@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Religious",DBN Television
-https://soyluiptv.github.io/intl/stream/DBNTelevision.to.m3u8
-#EXTINF:-1 group-title="Religious",Hope Channel Tonga
-https://soyluiptv.github.io/intl/stream/HopeChannelTonga.to.m3u8
-#EXTINF:-1 group-title="General",Television Tonga
-https://soyluiptv.github.io/intl/stream/TelevisionTonga.to.m3u8
-#EXTINF:-1 group-title="General",Television Tonga 2
-https://soyluiptv.github.io/intl/stream/TelevisionTonga2.to.m3u8

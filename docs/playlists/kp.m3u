@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",Korean Central Television
-https://soyluiptv.github.io/intl/stream/KoreanCentralTelevision.kp.m3u8
-#EXTINF:-1 group-title="Entertainment",Mansudae Television
-https://soyluiptv.github.io/intl/stream/MansudaeTelevision.kp.m3u8
-#EXTINF:-1 group-title="Education",Ryongnamsan Television
-https://soyluiptv.github.io/intl/stream/RyongnamsanTelevision.kp.m3u8
-#EXTINF:-1 group-title="Sports",Sports Television
-https://soyluiptv.github.io/intl/stream/SportsTelevision.kp.m3u8

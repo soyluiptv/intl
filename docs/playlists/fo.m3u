@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",Kringvarp Foroya
-https://soyluiptv.github.io/intl/stream/KringvarpForoya.fo.m3u8
-#EXTINF:-1 group-title="General",KVF Sjonvarp
-https://soyluiptv.github.io/intl/stream/KVFSjonvarp.fo.m3u8
-#EXTINF:-1 group-title="General",KVF Tingvarp
-https://soyluiptv.github.io/intl/stream/KVFTingvarp.fo.m3u8

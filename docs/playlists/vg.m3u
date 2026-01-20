@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",284 Media
-https://soyluiptv.github.io/intl/stream/284Media.vg.m3u8
-#EXTINF:-1 group-title="Religious",CBN Gospel
-https://soyluiptv.github.io/intl/stream/CBNGospel.vg.m3u8
-#EXTINF:-1 group-title="General",CBN TV
-https://soyluiptv.github.io/intl/stream/CBNTV.vg.m3u8
-#EXTINF:-1 group-title="General",Jahphix Television
-https://soyluiptv.github.io/intl/stream/JahphixTelevision.vg.m3u8

@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",ABS TV
-https://soyluiptv.github.io/intl/stream/ABSTV.ag.m3u8
-#EXTINF:-1 group-title="Music",Jump268
-https://soyluiptv.github.io/intl/stream/Jump268.ag.m3u8
-#EXTINF:-1 group-title="General",Pointe TV
-https://soyluiptv.github.io/intl/stream/PointeTV.ag.m3u8

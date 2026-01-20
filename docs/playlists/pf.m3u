@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="General",Canal+ Polynesie
-https://soyluiptv.github.io/intl/stream/CanalPlusPolynesie.pf.m3u8
-#EXTINF:-1 group-title="General",Polynesie 1ere
-https://soyluiptv.github.io/intl/stream/Polynesie1ere.pf.m3u8
-#EXTINF:-1 group-title="Music",Tahiti Web Radio TV
-https://soyluiptv.github.io/intl/stream/TahitiWebRadioTV.pf.m3u8
-#EXTINF:-1 group-title="General",TNTV
-https://soyluiptv.github.io/intl/stream/TNTV.pf.m3u8
