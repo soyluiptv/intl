@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",KSPN2
+https://soyluiptv.github.io/intl/stream/KSPN2.mp.m3u8
+#EXTINF:-1 group-title="Travel",Saipan TV
+https://soyluiptv.github.io/intl/stream/SaipanTV.mp.m3u8

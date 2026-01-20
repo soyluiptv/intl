@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culture",Bonaire.tv
+https://soyluiptv.github.io/intl/stream/Bonairetv.bq.m3u8
+#EXTINF:-1 group-title="General",Dutch Caribbean TV
+https://soyluiptv.github.io/intl/stream/DutchCaribbeanTV.bq.m3u8
+#EXTINF:-1 group-title="General",Energia TV
+https://soyluiptv.github.io/intl/stream/EnergiaTV.bq.m3u8
+#EXTINF:-1 group-title="Music",Live99FM
+https://soyluiptv.github.io/intl/stream/Live99FM.bq.m3u8
+#EXTINF:-1 group-title="General",Nos TV Bonaire
+https://soyluiptv.github.io/intl/stream/NosTVBonaire.bq.m3u8
+#EXTINF:-1 group-title="Travel",Tourist TV Bonaire
+https://soyluiptv.github.io/intl/stream/TouristTVBonaire.bq.m3u8
+#EXTINF:-1 group-title="Religious",TV Universal Bonaire
+https://soyluiptv.github.io/intl/stream/TVUniversalBonaire.bq.m3u8
+#EXTINF:-1 group-title="Entertainment",Voz Di Bonaire TV
+https://soyluiptv.github.io/intl/stream/VozDiBonaireTV.bq.m3u8

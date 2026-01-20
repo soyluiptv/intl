@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",1TV
+https://soyluiptv.github.io/intl/stream/1TV.md.m3u8
+#EXTINF:-1 group-title="General",7 TV
+https://soyluiptv.github.io/intl/stream/7TV.md.m3u8
+#EXTINF:-1 group-title="Entertainment",Acasa TV
+https://soyluiptv.github.io/intl/stream/AcasaTV.md.m3u8
+#EXTINF:-1 group-title="Outdoor",Agro TV Moldova
+https://soyluiptv.github.io/intl/stream/AgroTVMoldova.md.m3u8
+#EXTINF:-1 group-title="News",Albasat TV
+https://soyluiptv.github.io/intl/stream/AlbasatTV.md.m3u8
+#EXTINF:-1 group-title="General",ATV
+https://soyluiptv.github.io/intl/stream/ATV.md.m3u8
+#EXTINF:-1 group-title="News",AVA TV
+https://soyluiptv.github.io/intl/stream/AVATV.md.m3u8
+#EXTINF:-1 group-title="General",Axial TV
+https://soyluiptv.github.io/intl/stream/AxialTV.md.m3u8
+#EXTINF:-1 group-title="Genel",Balti TV
+https://soyluiptv.github.io/intl/stream/BaltiTV.md.m3u8
+#EXTINF:-1 group-title="General",BAS-TV
+https://soyluiptv.github.io/intl/stream/BASTV.md.m3u8
+#EXTINF:-1 group-title="Music",Busuioc TV
+https://soyluiptv.github.io/intl/stream/BusuiocTV.md.m3u8
+#EXTINF:-1 group-title="General",Canal 2
+https://soyluiptv.github.io/intl/stream/Canal2.md.m3u8
+#EXTINF:-1 group-title="General",Canal 3
+https://soyluiptv.github.io/intl/stream/Canal3.md.m3u8
+#EXTINF:-1 group-title="General",Canal 5
+https://soyluiptv.github.io/intl/stream/Canal5.md.m3u8
+#EXTINF:-1 group-title="News",Canal Regional
+https://soyluiptv.github.io/intl/stream/CanalRegional.md.m3u8
+#EXTINF:-1 group-title="Movies",Cinema 1
+https://soyluiptv.github.io/intl/stream/Cinema1.md.m3u8
+#EXTINF:-1 group-title="Movies",Cinemaraton Moldova
+https://soyluiptv.github.io/intl/stream/CinemaratonMoldova.md.m3u8
+#EXTINF:-1 group-title="General",Drochia TV
+https://soyluiptv.github.io/intl/stream/DrochiaTV.md.m3u8
+#EXTINF:-1 group-title="Genel",Elita TV
+https://soyluiptv.github.io/intl/stream/ElitaTV.md.m3u8
+#EXTINF:-1 group-title="General",Exclusiv TV
+https://soyluiptv.github.io/intl/stream/ExclusivTV.md.m3u8
+#EXTINF:-1 group-title="News",FACES TV
+https://soyluiptv.github.io/intl/stream/FACESTV.md.m3u8
+#EXTINF:-1 group-title="News",Global 24
+https://soyluiptv.github.io/intl/stream/Global24.md.m3u8
+#EXTINF:-1 group-title="General",GRT
+https://soyluiptv.github.io/intl/stream/GRT.md.m3u8
+#EXTINF:-1 group-title="Kids",Gurinel TV
+https://soyluiptv.github.io/intl/stream/GurinelTV.md.m3u8
+#EXTINF:-1 group-title="Music",Hit FM
+https://soyluiptv.github.io/intl/stream/HitFM.md.m3u8
+#EXTINF:-1 group-title="News",Jurnal TV
+https://soyluiptv.github.io/intl/stream/JurnalTV.md.m3u8
+#EXTINF:-1 group-title="General",Media TV
+https://soyluiptv.github.io/intl/stream/MediaTV.md.m3u8
+#EXTINF:-1 group-title="Entertainment",Mega TV
+https://soyluiptv.github.io/intl/stream/MegaTV.md.m3u8
+#EXTINF:-1 group-title="General",Moldova 1
+https://soyluiptv.github.io/intl/stream/Moldova1.md.m3u8
+#EXTINF:-1 group-title="General",Moldova 2
+https://soyluiptv.github.io/intl/stream/Moldova2.md.m3u8
+#EXTINF:-1 group-title="General",Moldova TV
+https://soyluiptv.github.io/intl/stream/MoldovaTV.md.m3u8
+#EXTINF:-1 group-title="General",N4
+https://soyluiptv.github.io/intl/stream/N4.md.m3u8
+#EXTINF:-1 group-title="News",New TV
+https://soyluiptv.github.io/intl/stream/NewTV.md.m3u8
+#EXTINF:-1 group-title="News",Next TV
+https://soyluiptv.github.io/intl/stream/NextTV.md.m3u8
+#EXTINF:-1 group-title="Music",Noroc TV
+https://soyluiptv.github.io/intl/stream/NorocTV.md.m3u8
+#EXTINF:-1 group-title="General",NTS TV
+https://soyluiptv.github.io/intl/stream/NTSTV.md.m3u8
+#EXTINF:-1 group-title="News",ONE TV
+https://soyluiptv.github.io/intl/stream/ONETV.md.m3u8
+#EXTINF:-1 group-title="General",Orizont TV
+https://soyluiptv.github.io/intl/stream/OrizontTV.md.m3u8
+#EXTINF:-1 group-title="Entertainment",Premiera TV
+https://soyluiptv.github.io/intl/stream/PremieraTV.md.m3u8
+#EXTINF:-1 group-title="General",Prima TV Moldova
+https://soyluiptv.github.io/intl/stream/PrimaTVMoldova.md.m3u8
+#EXTINF:-1 group-title="General",Primul in Moldova
+https://soyluiptv.github.io/intl/stream/PrimulinMoldova.md.m3u8
+#EXTINF:-1 group-title="Legislative",Privesc.Eu TV
+https://soyluiptv.github.io/intl/stream/PrivescEuTV.md.m3u8
+#EXTINF:-1 group-title="General",PRO TV Chisinau
+https://soyluiptv.github.io/intl/stream/PROTVChisinau.md.m3u8
+#EXTINF:-1 group-title="News",Publika TV
+https://soyluiptv.github.io/intl/stream/PublikaTV.md.m3u8
+#EXTINF:-1 group-title="General",Radio Moldova
+https://soyluiptv.github.io/intl/stream/RadioMoldova.md.m3u8
+#EXTINF:-1 group-title="Music",Radio Moldova Muzical
+https://soyluiptv.github.io/intl/stream/RadioMoldovaMuzical.md.m3u8
+#EXTINF:-1 group-title="Entertainment",Radio Moldova Tineret
+https://soyluiptv.github.io/intl/stream/RadioMoldovaTineret.md.m3u8
+#EXTINF:-1 group-title="News",Realitatea TV
+https://soyluiptv.github.io/intl/stream/RealitateaTV.md.m3u8
+#EXTINF:-1 group-title="General",Sor TV
+https://soyluiptv.github.io/intl/stream/SorTV.md.m3u8
+#EXTINF:-1 group-title="Entertainment",Star TV
+https://soyluiptv.github.io/intl/stream/StarTV.md.m3u8
+#EXTINF:-1 group-title="General",Studio-L
+https://soyluiptv.github.io/intl/stream/StudioL.md.m3u8
+#EXTINF:-1 group-title="Genel",Tele M
+https://soyluiptv.github.io/intl/stream/TeleM.md.m3u8
+#EXTINF:-1 group-title="Music",Tezaur TV
+https://soyluiptv.github.io/intl/stream/TezaurTV.md.m3u8
+#EXTINF:-1 group-title="General",TSV
+https://soyluiptv.github.io/intl/stream/TSV.md.m3u8
+#EXTINF:-1 group-title="General",TV6
+https://soyluiptv.github.io/intl/stream/TV6.md.m3u8
+#EXTINF:-1 group-title="Documentary",TV8
+https://soyluiptv.github.io/intl/stream/TV8.md.m3u8
+#EXTINF:-1 group-title="General",TV9
+https://soyluiptv.github.io/intl/stream/TV9.md.m3u8
+#EXTINF:-1 group-title="Movies",TVC21
+https://soyluiptv.github.io/intl/stream/TVC21.md.m3u8
+#EXTINF:-1 group-title="News",TV-Nord
+https://soyluiptv.github.io/intl/stream/TVNord.md.m3u8
+#EXTINF:-1 group-title="General",TV PMR
+https://soyluiptv.github.io/intl/stream/TVPMR.md.m3u8
+#EXTINF:-1 group-title="General",TVR Moldova
+https://soyluiptv.github.io/intl/stream/TVRMoldova.md.m3u8
+#EXTINF:-1 group-title="Genel",Vocea Basarabiei TV
+https://soyluiptv.github.io/intl/stream/VoceaBasarabieiTV.md.m3u8
+#EXTINF:-1 group-title="Sports",We Sport TV
+https://soyluiptv.github.io/intl/stream/WeSportTV.md.m3u8
+#EXTINF:-1 group-title="Music",Zona M
+https://soyluiptv.github.io/intl/stream/ZonaM.md.m3u8

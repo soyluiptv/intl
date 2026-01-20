@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 group-title="Business",apart TV
+https://soyluiptv.github.io/intl/stream/apartTV.lu.m3u8
+#EXTINF:-1 group-title="Legislative",Chamber TV
+https://soyluiptv.github.io/intl/stream/ChamberTV.lu.m3u8
+#EXTINF:-1 group-title="General",Direct One TV
+https://soyluiptv.github.io/intl/stream/DirectOneTV.lu.m3u8
+#EXTINF:-1 group-title="General",Dudelange TV
+https://soyluiptv.github.io/intl/stream/DudelangeTV.lu.m3u8
+#EXTINF:-1 group-title="Entertainment",eldo.TV
+https://soyluiptv.github.io/intl/stream/eldoTV.lu.m3u8
+#EXTINF:-1 group-title="General",Esch TV
+https://soyluiptv.github.io/intl/stream/EschTV.lu.m3u8
+#EXTINF:-1 group-title="General",Hesper TV
+https://soyluiptv.github.io/intl/stream/HesperTV.lu.m3u8
+#EXTINF:-1 group-title="XXX",Jasmin TV
+https://soyluiptv.github.io/intl/stream/JasminTV.lu.m3u8
+#EXTINF:-1 group-title="Sports",Lucky Jack.tv
+https://soyluiptv.github.io/intl/stream/LuckyJacktv.lu.m3u8
+#EXTINF:-1 group-title="Lifestyle",Luxe TV
+https://soyluiptv.github.io/intl/stream/LuxeTV.lu.m3u8
+#EXTINF:-1 group-title="General",Mamer TV
+https://soyluiptv.github.io/intl/stream/MamerTV.lu.m3u8
+#EXTINF:-1 group-title="General",MierschTV
+https://soyluiptv.github.io/intl/stream/MierschTV.lu.m3u8
+#EXTINF:-1 group-title="General",Nordliicht TV
+https://soyluiptv.github.io/intl/stream/NordliichtTV.lu.m3u8
+#EXTINF:-1 group-title="General",Petange Info TV
+https://soyluiptv.github.io/intl/stream/PetangeInfoTV.lu.m3u8
+#EXTINF:-1 group-title="Entertainment",RTL9
+https://soyluiptv.github.io/intl/stream/RTL9.lu.m3u8
+#EXTINF:-1 group-title="Music",RTL Gold
+https://soyluiptv.github.io/intl/stream/RTLGold.lu.m3u8
+#EXTINF:-1 group-title="General",RTL Tele Letzebuerg
+https://soyluiptv.github.io/intl/stream/RTLTeleLetzebuerg.lu.m3u8
+#EXTINF:-1 group-title="General",RTL Web Radio TV
+https://soyluiptv.github.io/intl/stream/RTLWebRadioTV.lu.m3u8
+#EXTINF:-1 group-title="General",RTL Zwee
+https://soyluiptv.github.io/intl/stream/RTLZwee.lu.m3u8
+#EXTINF:-1 group-title="XXX",Satisfaction HD
+https://soyluiptv.github.io/intl/stream/SatisfactionHD.lu.m3u8
+#EXTINF:-1 group-title="General",Televisioun Steesel
+https://soyluiptv.github.io/intl/stream/TelevisiounSteesel.lu.m3u8
+#EXTINF:-1 group-title="Music",Today Radio
+https://soyluiptv.github.io/intl/stream/TodayRadio.lu.m3u8
+#EXTINF:-1 group-title="Genel",UHD 1
+https://soyluiptv.github.io/intl/stream/UHD1.lu.m3u8

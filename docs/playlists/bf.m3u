@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",3TV
+https://soyluiptv.github.io/intl/stream/3TV.bf.m3u8
+#EXTINF:-1 group-title="Outdoor",Agribusiness TV
+https://soyluiptv.github.io/intl/stream/AgribusinessTV.bf.m3u8
+#EXTINF:-1 group-title="General",BF1
+https://soyluiptv.github.io/intl/stream/BF1.bf.m3u8
+#EXTINF:-1 group-title="General",Boima TV
+https://soyluiptv.github.io/intl/stream/BoimaTV.bf.m3u8
+#EXTINF:-1 group-title="News",Burkina Info TV
+https://soyluiptv.github.io/intl/stream/BurkinaInfoTV.bf.m3u8
+#EXTINF:-1 group-title="Science",Burkina Sciences TV
+https://soyluiptv.github.io/intl/stream/BurkinaSciencesTV.bf.m3u8
+#EXTINF:-1 group-title="General",C360 TV
+https://soyluiptv.github.io/intl/stream/C360TV.bf.m3u8
+#EXTINF:-1 group-title="General",Canal 3
+https://soyluiptv.github.io/intl/stream/Canal3.bf.m3u8
+#EXTINF:-1 group-title="Religious",CIMIDI TV
+https://soyluiptv.github.io/intl/stream/CIMIDITV.bf.m3u8
+#EXTINF:-1 group-title="Religious",CVK
+https://soyluiptv.github.io/intl/stream/CVK.bf.m3u8
+#EXTINF:-1 group-title="Religious",El-Bethel TV
+https://soyluiptv.github.io/intl/stream/ElBethelTV.bf.m3u8
+#EXTINF:-1 group-title="Religious",Espoir du Monde TV
+https://soyluiptv.github.io/intl/stream/EspoirduMondeTV.bf.m3u8
+#EXTINF:-1 group-title="Culture",Faso TV
+https://soyluiptv.github.io/intl/stream/FasoTV.bf.m3u8
+#EXTINF:-1 group-title="News",Filinfo TV
+https://soyluiptv.github.io/intl/stream/FilinfoTV.bf.m3u8
+#EXTINF:-1 group-title="Sports",Hakili TV Sport
+https://soyluiptv.github.io/intl/stream/HakiliTVSport.bf.m3u8
+#EXTINF:-1 group-title="Religious",Impact TV
+https://soyluiptv.github.io/intl/stream/ImpactTV.bf.m3u8
+#EXTINF:-1 group-title="General",La Voix du Paysan TV
+https://soyluiptv.github.io/intl/stream/LaVoixduPaysanTV.bf.m3u8
+#EXTINF:-1 group-title="General",LCA
+https://soyluiptv.github.io/intl/stream/LCA.bf.m3u8
+#EXTINF:-1 group-title="General",Munyu TV
+https://soyluiptv.github.io/intl/stream/MunyuTV.bf.m3u8
+#EXTINF:-1 group-title="Religious",Omega TV
+https://soyluiptv.github.io/intl/stream/OmegaTV.bf.m3u8
+#EXTINF:-1 group-title="Genel",RTB
+https://soyluiptv.github.io/intl/stream/RTB.bf.m3u8
+#EXTINF:-1 group-title="General",RTB2 Hauts-Basins
+https://soyluiptv.github.io/intl/stream/RTB2HautsBasins.bf.m3u8
+#EXTINF:-1 group-title="Culture",RTB 3
+https://soyluiptv.github.io/intl/stream/RTB3.bf.m3u8
+#EXTINF:-1 group-title="Culture",RTB Zenith
+https://soyluiptv.github.io/intl/stream/RTBZenith.bf.m3u8
+#EXTINF:-1 group-title="General",Saaba TV
+https://soyluiptv.github.io/intl/stream/SaabaTV.bf.m3u8
+#EXTINF:-1 group-title="General",Sanmatenga Television
+https://soyluiptv.github.io/intl/stream/SanmatengaTelevision.bf.m3u8
+#EXTINF:-1 group-title="General",Savane TV
+https://soyluiptv.github.io/intl/stream/SavaneTV.bf.m3u8
+#EXTINF:-1 group-title="Religious",Shammah TV
+https://soyluiptv.github.io/intl/stream/ShammahTV.bf.m3u8
+#EXTINF:-1 group-title="Entertainment",SMTV Bobo
+https://soyluiptv.github.io/intl/stream/SMTVBobo.bf.m3u8
+#EXTINF:-1 group-title="General",Tele Tin Tua
+https://soyluiptv.github.io/intl/stream/TeleTinTua.bf.m3u8
+#EXTINF:-1 group-title="Religious",TV Al Houda
+https://soyluiptv.github.io/intl/stream/TVAlHouda.bf.m3u8
+#EXTINF:-1 group-title="General",TV Citoyenne
+https://soyluiptv.github.io/intl/stream/TVCitoyenne.bf.m3u8
+#EXTINF:-1 group-title="Religious",TV Maria
+https://soyluiptv.github.io/intl/stream/TVMaria.bf.m3u8
+#EXTINF:-1 group-title="Religious",TV Peace Afrika
+https://soyluiptv.github.io/intl/stream/TVPeaceAfrika.bf.m3u8
+#EXTINF:-1 group-title="General",TVZ Africa
+https://soyluiptv.github.io/intl/stream/TVZAfrica.bf.m3u8
+#EXTINF:-1 group-title="Business",Wadjo TV
+https://soyluiptv.github.io/intl/stream/WadjoTV.bf.m3u8
+#EXTINF:-1 group-title="General",Zobre Web TV
+https://soyluiptv.github.io/intl/stream/ZobreWebTV.bf.m3u8

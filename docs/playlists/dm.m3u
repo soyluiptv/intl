@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",DBS Radio
+https://soyluiptv.github.io/intl/stream/DBSRadio.dm.m3u8
+#EXTINF:-1 group-title="Legislative",GIS Dominica
+https://soyluiptv.github.io/intl/stream/GISDominica.dm.m3u8
+#EXTINF:-1 group-title="Music",Kairi TV
+https://soyluiptv.github.io/intl/stream/KairiTV.dm.m3u8
+#EXTINF:-1 group-title="General",TDN TV
+https://soyluiptv.github.io/intl/stream/TDNTV.dm.m3u8

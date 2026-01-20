@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",NBC 1
+https://soyluiptv.github.io/intl/stream/NBC1.na.m3u8
+#EXTINF:-1 group-title="News",NBC 2
+https://soyluiptv.github.io/intl/stream/NBC2.na.m3u8
+#EXTINF:-1 group-title="Entertainment",NBC 3
+https://soyluiptv.github.io/intl/stream/NBC3.na.m3u8
+#EXTINF:-1 group-title="General",NTV
+https://soyluiptv.github.io/intl/stream/NTV.na.m3u8
+#EXTINF:-1 group-title="General",One Africa TV
+https://soyluiptv.github.io/intl/stream/OneAfricaTV.na.m3u8
+#EXTINF:-1 group-title="Religious",TBN Namibia
+https://soyluiptv.github.io/intl/stream/TBNNamibia.na.m3u8

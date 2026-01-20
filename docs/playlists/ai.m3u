@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Anguilla TV
+https://soyluiptv.github.io/intl/stream/AnguillaTV.ai.m3u8
+#EXTINF:-1 group-title="General",KCNTV4
+https://soyluiptv.github.io/intl/stream/KCNTV4.ai.m3u8
+#EXTINF:-1 group-title="Travel",TRUE Anguilla TV
+https://soyluiptv.github.io/intl/stream/TRUEAnguillaTV.ai.m3u8

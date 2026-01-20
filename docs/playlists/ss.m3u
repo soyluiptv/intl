@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",360 Africa TV
+https://soyluiptv.github.io/intl/stream/360AfricaTV.ss.m3u8
+#EXTINF:-1 group-title="General",EBC TV
+https://soyluiptv.github.io/intl/stream/EBCTV.ss.m3u8
+#EXTINF:-1 group-title="General",JBS TV
+https://soyluiptv.github.io/intl/stream/JBSTV.ss.m3u8
+#EXTINF:-1 group-title="General",Juba Echo TV
+https://soyluiptv.github.io/intl/stream/JubaEchoTV.ss.m3u8
+#EXTINF:-1 group-title="Entertainment",Juba TV
+https://soyluiptv.github.io/intl/stream/JubaTV.ss.m3u8
+#EXTINF:-1 group-title="General",Junobna TV
+https://soyluiptv.github.io/intl/stream/JunobnaTV.ss.m3u8
+#EXTINF:-1 group-title="Entertainment",Kiss TV
+https://soyluiptv.github.io/intl/stream/KissTV.ss.m3u8
+#EXTINF:-1 group-title="Entertainment",Oxygen HD
+https://soyluiptv.github.io/intl/stream/OxygenHD.ss.m3u8
+#EXTINF:-1 group-title="General",SSBC TV
+https://soyluiptv.github.io/intl/stream/SSBCTV.ss.m3u8

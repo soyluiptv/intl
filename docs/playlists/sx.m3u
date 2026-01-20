@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music",98.1 Pearl FM
+https://soyluiptv.github.io/intl/stream/981PearlFM.sx.m3u8
+#EXTINF:-1 group-title="Entertainment",Cani TV
+https://soyluiptv.github.io/intl/stream/CaniTV.sx.m3u8
+#EXTINF:-1 group-title="General",IOTV
+https://soyluiptv.github.io/intl/stream/IOTV.sx.m3u8
+#EXTINF:-1 group-title="Music",Island 92 FM
+https://soyluiptv.github.io/intl/stream/Island92FM.sx.m3u8
+#EXTINF:-1 group-title="Music",Laser 101
+https://soyluiptv.github.io/intl/stream/Laser101.sx.m3u8
+#EXTINF:-1 group-title="General",SXM TV Broadcast
+https://soyluiptv.github.io/intl/stream/SXMTVBroadcast.sx.m3u8
+#EXTINF:-1 group-title="Music",Tropixx 105.5 FM
+https://soyluiptv.github.io/intl/stream/Tropixx1055FM.sx.m3u8
+#EXTINF:-1 group-title="General",TV15
+https://soyluiptv.github.io/intl/stream/TV15.sx.m3u8
+#EXTINF:-1 group-title="Entertainment",TVCARiB
+https://soyluiptv.github.io/intl/stream/TVCARiB.sx.m3u8
+#EXTINF:-1 group-title="Movies",TVCARiB Cinema
+https://soyluiptv.github.io/intl/stream/TVCARiBCinema.sx.m3u8
+#EXTINF:-1 group-title="Religious",TVCARiB Gospel
+https://soyluiptv.github.io/intl/stream/TVCARiBGospel.sx.m3u8
+#EXTINF:-1 group-title="Kids",TVCARiB Kids & Teens
+https://soyluiptv.github.io/intl/stream/TVCARiBKidsTeens.sx.m3u8
+#EXTINF:-1 group-title="Entertainment",TVCARiB Latino
+https://soyluiptv.github.io/intl/stream/TVCARiBLatino.sx.m3u8

@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",ABC Suriname
+https://soyluiptv.github.io/intl/stream/ABCSuriname.sr.m3u8
+#EXTINF:-1 group-title="Movies",Alpha Channel
+https://soyluiptv.github.io/intl/stream/AlphaChannel.sr.m3u8
+#EXTINF:-1 group-title="Kids",Alpha Kids
+https://soyluiptv.github.io/intl/stream/AlphaKids.sr.m3u8
+#EXTINF:-1 group-title="News",Apintie Televisie
+https://soyluiptv.github.io/intl/stream/ApintieTelevisie.sr.m3u8
+#EXTINF:-1 group-title="General",Asosye TV
+https://soyluiptv.github.io/intl/stream/AsosyeTV.sr.m3u8
+#EXTINF:-1 group-title="General",ATV
+https://soyluiptv.github.io/intl/stream/ATV.sr.m3u8
+#EXTINF:-1 group-title="General",ATV 2
+https://soyluiptv.github.io/intl/stream/ATV2.sr.m3u8
+#EXTINF:-1 group-title="General",ATV 3
+https://soyluiptv.github.io/intl/stream/ATV3.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",Avenia TV
+https://soyluiptv.github.io/intl/stream/AveniaTV.sr.m3u8
+#EXTINF:-1 group-title="Legislative",Communicatie Dienst Suriname
+https://soyluiptv.github.io/intl/stream/CommunicatieDienstSuriname.sr.m3u8
+#EXTINF:-1 group-title="Legislative",DNA TV
+https://soyluiptv.github.io/intl/stream/DNATV.sr.m3u8
+#EXTINF:-1 group-title="Family",Family Media
+https://soyluiptv.github.io/intl/stream/FamilyMedia.sr.m3u8
+#EXTINF:-1 group-title="Movies",Green TV
+https://soyluiptv.github.io/intl/stream/GreenTV.sr.m3u8
+#EXTINF:-1 group-title="Music",Ishara TV
+https://soyluiptv.github.io/intl/stream/IsharaTV.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",Jawa TV
+https://soyluiptv.github.io/intl/stream/JawaTV.sr.m3u8
+#EXTINF:-1 group-title="News",KEY TV
+https://soyluiptv.github.io/intl/stream/KEYTV.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",Koyeba TV
+https://soyluiptv.github.io/intl/stream/KoyebaTV.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",Lime TV
+https://soyluiptv.github.io/intl/stream/LimeTV.sr.m3u8
+#EXTINF:-1 group-title="General",LPM TV
+https://soyluiptv.github.io/intl/stream/LPMTV.sr.m3u8
+#EXTINF:-1 group-title="Religious",Maranatha TV
+https://soyluiptv.github.io/intl/stream/MaranathaTV.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",Namo India TV
+https://soyluiptv.github.io/intl/stream/NamoIndiaTV.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",PESS TV 11.3
+https://soyluiptv.github.io/intl/stream/PESSTV113.sr.m3u8
+#EXTINF:-1 group-title="News",Pipel TV
+https://soyluiptv.github.io/intl/stream/PipelTV.sr.m3u8
+#EXTINF:-1 group-title="News",RBN TV
+https://soyluiptv.github.io/intl/stream/RBNTV.sr.m3u8
+#EXTINF:-1 group-title="General",RTV
+https://soyluiptv.github.io/intl/stream/RTV.sr.m3u8
+#EXTINF:-1 group-title="Music",RTV Garuda
+https://soyluiptv.github.io/intl/stream/RTVGaruda.sr.m3u8
+#EXTINF:-1 group-title="Family",Sargam TV
+https://soyluiptv.github.io/intl/stream/SargamTV.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",SCCN TV
+https://soyluiptv.github.io/intl/stream/SCCNTV.sr.m3u8
+#EXTINF:-1 group-title="Movies",SCTV45
+https://soyluiptv.github.io/intl/stream/SCTV45.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",SDTV
+https://soyluiptv.github.io/intl/stream/SDTV.sr.m3u8
+#EXTINF:-1 group-title="General",SGM TV
+https://soyluiptv.github.io/intl/stream/SGMTV.sr.m3u8
+#EXTINF:-1 group-title="Religious",Shalom TV
+https://soyluiptv.github.io/intl/stream/ShalomTV.sr.m3u8
+#EXTINF:-1 group-title="Entertainment",SONAL TV
+https://soyluiptv.github.io/intl/stream/SONALTV.sr.m3u8
+#EXTINF:-1 group-title="General",STVS 8.1
+https://soyluiptv.github.io/intl/stream/STVS81.sr.m3u8
+#EXTINF:-1 group-title="General",Supreme TV
+https://soyluiptv.github.io/intl/stream/SupremeTV.sr.m3u8
+#EXTINF:-1 group-title="Culture",Trishul Broadcasting Network
+https://soyluiptv.github.io/intl/stream/TrishulBroadcastingNetwork.sr.m3u8
+#EXTINF:-1 group-title="Culture",TV Binnenland
+https://soyluiptv.github.io/intl/stream/TVBinnenland.sr.m3u8
+#EXTINF:-1 group-title="Religious",UCB Gospel TV
+https://soyluiptv.github.io/intl/stream/UCBGospelTV.sr.m3u8

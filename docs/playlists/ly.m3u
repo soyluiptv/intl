@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="News",218 News
+https://soyluiptv.github.io/intl/stream/218News.ly.m3u8
+#EXTINF:-1 group-title="News",218TV
+https://soyluiptv.github.io/intl/stream/218TV.ly.m3u8
+#EXTINF:-1 group-title="General",Abu Surra TV
+https://soyluiptv.github.io/intl/stream/AbuSurraTV.ly.m3u8
+#EXTINF:-1 group-title="Shop",Ali Gate TV
+https://soyluiptv.github.io/intl/stream/AliGateTV.ly.m3u8
+#EXTINF:-1 group-title="General",Allibiya TV
+https://soyluiptv.github.io/intl/stream/AllibiyaTV.ly.m3u8
+#EXTINF:-1 group-title="News",Al Masar TV
+https://soyluiptv.github.io/intl/stream/AlMasarTV.ly.m3u8
+#EXTINF:-1 group-title="News",February Channel
+https://soyluiptv.github.io/intl/stream/FebruaryChannel.ly.m3u8
+#EXTINF:-1 group-title="News",Jamahiriya TV
+https://soyluiptv.github.io/intl/stream/JamahiriyaTV.ly.m3u8
+#EXTINF:-1 group-title="News",Libya Alhadath TV
+https://soyluiptv.github.io/intl/stream/LibyaAlhadathTV.ly.m3u8
+#EXTINF:-1 group-title="General",Libya Alrasmia Channel
+https://soyluiptv.github.io/intl/stream/LibyaAlrasmiaChannel.ly.m3u8
+#EXTINF:-1 group-title="General",Libya Al Wataniya
+https://soyluiptv.github.io/intl/stream/LibyaAlWataniya.ly.m3u8
+#EXTINF:-1 group-title="Education",Libya Education
+https://soyluiptv.github.io/intl/stream/LibyaEducation.ly.m3u8
+#EXTINF:-1 group-title="General",Libya LY
+https://soyluiptv.github.io/intl/stream/LibyaLY.ly.m3u8
+#EXTINF:-1 group-title="General",Libya Mostakbal
+https://soyluiptv.github.io/intl/stream/LibyaMostakbal.ly.m3u8
+#EXTINF:-1 group-title="General",Libya One
+https://soyluiptv.github.io/intl/stream/LibyaOne.ly.m3u8
+#EXTINF:-1 group-title="News",Libya Panorama Channel
+https://soyluiptv.github.io/intl/stream/LibyaPanoramaChannel.ly.m3u8
+#EXTINF:-1 group-title="Sports",Libya Sport TV
+https://soyluiptv.github.io/intl/stream/LibyaSportTV.ly.m3u8
+#EXTINF:-1 group-title="Sports",Libya Sport TV 2
+https://soyluiptv.github.io/intl/stream/LibyaSportTV2.ly.m3u8
+#EXTINF:-1 group-title="General",New Libya Channel
+https://soyluiptv.github.io/intl/stream/NewLibyaChannel.ly.m3u8
+#EXTINF:-1 group-title="Kids",NLC Kids
+https://soyluiptv.github.io/intl/stream/NLCKids.ly.m3u8
+#EXTINF:-1 group-title="News",NLC News
+https://soyluiptv.github.io/intl/stream/NLCNews.ly.m3u8
+#EXTINF:-1 group-title="Entertainment",RTV Lebda
+https://soyluiptv.github.io/intl/stream/RTVLebda.ly.m3u8
+#EXTINF:-1 group-title="General",Salam TV
+https://soyluiptv.github.io/intl/stream/SalamTV.ly.m3u8
+#EXTINF:-1 group-title="General",Tanasuh TV
+https://soyluiptv.github.io/intl/stream/TanasuhTV.ly.m3u8
+#EXTINF:-1 group-title="General",Waad TV
+https://soyluiptv.github.io/intl/stream/WaadTV.ly.m3u8
+#EXTINF:-1 group-title="General",Wasat TV
+https://soyluiptv.github.io/intl/stream/WasatTV.ly.m3u8

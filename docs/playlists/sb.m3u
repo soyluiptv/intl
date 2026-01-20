@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",SIBC TV
+https://soyluiptv.github.io/intl/stream/SIBCTV.sb.m3u8
+#EXTINF:-1 group-title="General",TTV 1
+https://soyluiptv.github.io/intl/stream/TTV1.sb.m3u8
+#EXTINF:-1 group-title="General",TTV 2
+https://soyluiptv.github.io/intl/stream/TTV2.sb.m3u8
+#EXTINF:-1 group-title="General",TTV 3
+https://soyluiptv.github.io/intl/stream/TTV3.sb.m3u8

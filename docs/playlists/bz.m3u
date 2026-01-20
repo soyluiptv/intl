@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",BBN TV
+https://soyluiptv.github.io/intl/stream/BBNTV.bz.m3u8
+#EXTINF:-1 group-title="Religious",Belize Adventist Television Network
+https://soyluiptv.github.io/intl/stream/BelizeAdventistTelevisionNetwork.bz.m3u8
+#EXTINF:-1 group-title="Travel",BHA TV
+https://soyluiptv.github.io/intl/stream/BHATV.bz.m3u8
+#EXTINF:-1 group-title="General",Channel 5
+https://soyluiptv.github.io/intl/stream/Channel5.bz.m3u8
+#EXTINF:-1 group-title="General",Channel 7
+https://soyluiptv.github.io/intl/stream/Channel7.bz.m3u8
+#EXTINF:-1 group-title="Entertainment",Color Blind TV
+https://soyluiptv.github.io/intl/stream/ColorBlindTV.bz.m3u8
+#EXTINF:-1 group-title="News",CTV3
+https://soyluiptv.github.io/intl/stream/CTV3.bz.m3u8
+#EXTINF:-1 group-title="Music",Flex Studio Radio TV
+https://soyluiptv.github.io/intl/stream/FlexStudioRadioTV.bz.m3u8
+#EXTINF:-1 group-title="Religious",Guadalupe Media
+https://soyluiptv.github.io/intl/stream/GuadalupeMedia.bz.m3u8
+#EXTINF:-1 group-title="Music",Hitz TV
+https://soyluiptv.github.io/intl/stream/HitzTV.bz.m3u8
+#EXTINF:-1 group-title="General",Krem TV
+https://soyluiptv.github.io/intl/stream/KremTV.bz.m3u8
+#EXTINF:-1 group-title="News",Love Television
+https://soyluiptv.github.io/intl/stream/LoveTelevision.bz.m3u8
+#EXTINF:-1 group-title="Music",Max TV
+https://soyluiptv.github.io/intl/stream/MaxTV.bz.m3u8
+#EXTINF:-1 group-title="Education",Open Learning TV
+https://soyluiptv.github.io/intl/stream/OpenLearningTV.bz.m3u8
+#EXTINF:-1 group-title="News",PGTV
+https://soyluiptv.github.io/intl/stream/PGTV.bz.m3u8
+#EXTINF:-1 group-title="General",PlusTV
+https://soyluiptv.github.io/intl/stream/PlusTV.bz.m3u8
+#EXTINF:-1 group-title="Music",REEF TV
+https://soyluiptv.github.io/intl/stream/REEFTV.bz.m3u8
+#EXTINF:-1 group-title="Entertainment",The National Channel 10
+https://soyluiptv.github.io/intl/stream/TheNationalChannel10.bz.m3u8
+#EXTINF:-1 group-title="Sports",TNC Sports
+https://soyluiptv.github.io/intl/stream/TNCSports.bz.m3u8
+#EXTINF:-1 group-title="General",Vibes Media
+https://soyluiptv.github.io/intl/stream/VibesMedia.bz.m3u8
+#EXTINF:-1 group-title="Music",WAVE TV
+https://soyluiptv.github.io/intl/stream/WAVETV.bz.m3u8
+#EXTINF:-1 group-title="General",XTV
+https://soyluiptv.github.io/intl/stream/XTV.bz.m3u8

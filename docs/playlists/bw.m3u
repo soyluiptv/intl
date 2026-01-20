@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",Access TV
+https://soyluiptv.github.io/intl/stream/AccessTV.bw.m3u8
+#EXTINF:-1 group-title="Entertainment",Botswana Television
+https://soyluiptv.github.io/intl/stream/BotswanaTelevision.bw.m3u8
+#EXTINF:-1 group-title="General",BTV 1
+https://soyluiptv.github.io/intl/stream/BTV1.bw.m3u8
+#EXTINF:-1 group-title="Entertainment",BTV 2
+https://soyluiptv.github.io/intl/stream/BTV2.bw.m3u8
+#EXTINF:-1 group-title="News",BTV News
+https://soyluiptv.github.io/intl/stream/BTVNews.bw.m3u8
+#EXTINF:-1 group-title="General",HUB TV
+https://soyluiptv.github.io/intl/stream/HUBTV.bw.m3u8
+#EXTINF:-1 group-title="Sports",Khuduga TV
+https://soyluiptv.github.io/intl/stream/KhudugaTV.bw.m3u8
+#EXTINF:-1 group-title="Entertainment",MARU Television
+https://soyluiptv.github.io/intl/stream/MARUTelevision.bw.m3u8
+#EXTINF:-1 group-title="Entertainment",Now-TV
+https://soyluiptv.github.io/intl/stream/NowTV.bw.m3u8
+#EXTINF:-1 group-title="Entertainment",YTV
+https://soyluiptv.github.io/intl/stream/YTV.bw.m3u8

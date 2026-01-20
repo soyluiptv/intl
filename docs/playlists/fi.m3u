@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",AlfaTV
+https://soyluiptv.github.io/intl/stream/AlfaTV.fi.m3u8
+#EXTINF:-1 group-title="Genel",ArvasTV
+https://soyluiptv.github.io/intl/stream/ArvasTV.fi.m3u8
+#EXTINF:-1 group-title="Kids",C More Juniori
+https://soyluiptv.github.io/intl/stream/CMoreJuniori.fi.m3u8
+#EXTINF:-1 group-title="Entertainment",Discovery Channel
+https://soyluiptv.github.io/intl/stream/DiscoveryChannel.fi.m3u8
+#EXTINF:-1 group-title="General",Eveo
+https://soyluiptv.github.io/intl/stream/Eveo.fi.m3u8
+#EXTINF:-1 group-title="Entertainment",Fox
+https://soyluiptv.github.io/intl/stream/Fox.fi.m3u8
+#EXTINF:-1 group-title="Genel",Frii
+https://soyluiptv.github.io/intl/stream/Frii.fi.m3u8
+#EXTINF:-1 group-title="Movies",Hero
+https://soyluiptv.github.io/intl/stream/Hero.fi.m3u8
+#EXTINF:-1 group-title="Religious",Himlen TV7
+https://soyluiptv.github.io/intl/stream/HimlenTV7.fi.m3u8
+#EXTINF:-1 group-title="Religious",Hope Channel Finland
+https://soyluiptv.github.io/intl/stream/HopeChannelFinland.fi.m3u8
+#EXTINF:-1 group-title="Lifestyle",INEZ
+https://soyluiptv.github.io/intl/stream/INEZ.fi.m3u8
+#EXTINF:-1 group-title="Religious",IRR-TV
+https://soyluiptv.github.io/intl/stream/IRRTV.fi.m3u8
+#EXTINF:-1 group-title="Entertainment",IskelmaTV
+https://soyluiptv.github.io/intl/stream/IskelmaTV.fi.m3u8
+#EXTINF:-1 group-title="Entertainment",Jim
+https://soyluiptv.github.io/intl/stream/Jim.fi.m3u8
+#EXTINF:-1 group-title="Music",JRTV Jarviradio
+https://soyluiptv.github.io/intl/stream/JRTVJarviradio.fi.m3u8
+#EXTINF:-1 group-title="General",KEXTV
+https://soyluiptv.github.io/intl/stream/KEXTV.fi.m3u8
+#EXTINF:-1 group-title="Culture",KotiTV
+https://soyluiptv.github.io/intl/stream/KotiTV.fi.m3u8
+#EXTINF:-1 group-title="Genel",KRS-TV
+https://soyluiptv.github.io/intl/stream/KRSTV.fi.m3u8
+#EXTINF:-1 group-title="General",Kutonen
+https://soyluiptv.github.io/intl/stream/Kutonen.fi.m3u8
+#EXTINF:-1 group-title="General",Larsmo Nar-TV
+https://soyluiptv.github.io/intl/stream/LarsmoNarTV.fi.m3u8
+#EXTINF:-1 group-title="Entertainment",Liv
+https://soyluiptv.github.io/intl/stream/Liv.fi.m3u8
+#EXTINF:-1 group-title="Genel",Love Nature
+https://soyluiptv.github.io/intl/stream/LoveNature.fi.m3u8
+#EXTINF:-1 group-title="General",Malax Lokal-TV
+https://soyluiptv.github.io/intl/stream/MalaxLokalTV.fi.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV
+https://soyluiptv.github.io/intl/stream/MTV.fi.m3u8
+#EXTINF:-1 group-title="General",MTV3
+https://soyluiptv.github.io/intl/stream/MTV3.fi.m3u8
+#EXTINF:-1 group-title="Genel",MTV Aitio
+https://soyluiptv.github.io/intl/stream/MTVAitio.fi.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV Ava
+https://soyluiptv.github.io/intl/stream/MTVAva.fi.m3u8
+#EXTINF:-1 group-title="Kids",MTV Juniori
+https://soyluiptv.github.io/intl/stream/MTVJuniori.fi.m3u8
+#EXTINF:-1 group-title="Genel",MTV Max
+https://soyluiptv.github.io/intl/stream/MTVMax.fi.m3u8
+#EXTINF:-1 group-title="Genel",MTV Sub
+https://soyluiptv.github.io/intl/stream/MTVSub.fi.m3u8
+#EXTINF:-1 group-title="Sports",MTV Urheilu 1
+https://soyluiptv.github.io/intl/stream/MTVUrheilu1.fi.m3u8
+#EXTINF:-1 group-title="Sports",MTV Urheilu 2
+https://soyluiptv.github.io/intl/stream/MTVUrheilu2.fi.m3u8
+#EXTINF:-1 group-title="News",MTV Uutiset
+https://soyluiptv.github.io/intl/stream/MTVUutiset.fi.m3u8
+#EXTINF:-1 group-title="Genel",MTV Viihde
+https://soyluiptv.github.io/intl/stream/MTVViihde.fi.m3u8
+#EXTINF:-1 group-title="General",Nar-TV
+https://soyluiptv.github.io/intl/stream/NarTV.fi.m3u8
+#EXTINF:-1 group-title="Documentary",National Geographic
+https://soyluiptv.github.io/intl/stream/NationalGeographic.fi.m3u8
+#EXTINF:-1 group-title="Documentary",National Geographic Wild
+https://soyluiptv.github.io/intl/stream/NationalGeographicWild.fi.m3u8
+#EXTINF:-1 group-title="Music",Navahang TV
+https://soyluiptv.github.io/intl/stream/NavahangTV.fi.m3u8
+#EXTINF:-1 group-title="Religious",Nebesa TV7
+https://soyluiptv.github.io/intl/stream/NebesaTV7.fi.m3u8
+#EXTINF:-1 group-title="General",Nelonen
+https://soyluiptv.github.io/intl/stream/Nelonen.fi.m3u8
+#EXTINF:-1 group-title="News",Nopola News
+https://soyluiptv.github.io/intl/stream/NopolaNews.fi.m3u8
+#EXTINF:-1 group-title="General",Oho Live TV
+https://soyluiptv.github.io/intl/stream/OhoLiveTV.fi.m3u8
+#EXTINF:-1 group-title="Religious",One Way TV
+https://soyluiptv.github.io/intl/stream/OneWayTV.fi.m3u8
+#EXTINF:-1 group-title="General",Onni TV
+https://soyluiptv.github.io/intl/stream/OnniTV.fi.m3u8
+#EXTINF:-1 group-title="Genel",PeTV
+https://soyluiptv.github.io/intl/stream/PeTV.fi.m3u8
+#EXTINF:-1 group-title="News",Posi TV
+https://soyluiptv.github.io/intl/stream/PosiTV.fi.m3u8
+#EXTINF:-1 group-title="Genel",Pulsea
+https://soyluiptv.github.io/intl/stream/Pulsea.fi.m3u8
+#EXTINF:-1 group-title="Genel",SF-kanalen
+https://soyluiptv.github.io/intl/stream/SFkanalen.fi.m3u8
+#EXTINF:-1 group-title="Genel",SkyShowtime 1
+https://soyluiptv.github.io/intl/stream/SkyShowtime1.fi.m3u8
+#EXTINF:-1 group-title="Genel",SkyShowtime 2
+https://soyluiptv.github.io/intl/stream/SkyShowtime2.fi.m3u8
+#EXTINF:-1 group-title="Genel",STAR Channel
+https://soyluiptv.github.io/intl/stream/STARChannel.fi.m3u8
+#EXTINF:-1 group-title="Genel",Sundom TV
+https://soyluiptv.github.io/intl/stream/SundomTV.fi.m3u8
+#EXTINF:-1 group-title="Religious",Taevas TV7
+https://soyluiptv.github.io/intl/stream/TaevasTV7.fi.m3u8
+#EXTINF:-1 group-title="Religious",Taivas TV7
+https://soyluiptv.github.io/intl/stream/TaivasTV7.fi.m3u8
+#EXTINF:-1 group-title="Genel",TLC
+https://soyluiptv.github.io/intl/stream/TLC.fi.m3u8
+#EXTINF:-1 group-title="Genel",TV5
+https://soyluiptv.github.io/intl/stream/TV5.fi.m3u8
+#EXTINF:-1 group-title="Genel",TV Finland
+https://soyluiptv.github.io/intl/stream/TVFinland.fi.m3u8
+#EXTINF:-1 group-title="Sports",Viaplay TV
+https://soyluiptv.github.io/intl/stream/ViaplayTV.fi.m3u8
+#EXTINF:-1 group-title="Genel",Viasat Explore
+https://soyluiptv.github.io/intl/stream/ViasatExplore.fi.m3u8
+#EXTINF:-1 group-title="Genel",Viasat History
+https://soyluiptv.github.io/intl/stream/ViasatHistory.fi.m3u8
+#EXTINF:-1 group-title="Genel",Viasat Nature
+https://soyluiptv.github.io/intl/stream/ViasatNature.fi.m3u8
+#EXTINF:-1 group-title="Genel",WorTV
+https://soyluiptv.github.io/intl/stream/WorTV.fi.m3u8
+#EXTINF:-1 group-title="Genel",Yle Fem
+https://soyluiptv.github.io/intl/stream/YleFem.fi.m3u8
+#EXTINF:-1 group-title="Genel",Yle Teema
+https://soyluiptv.github.io/intl/stream/YleTeema.fi.m3u8
+#EXTINF:-1 group-title="Genel",Yle Teema & Fem
+https://soyluiptv.github.io/intl/stream/YleTeemaFem.fi.m3u8
+#EXTINF:-1 group-title="Genel",Yle TV1
+https://soyluiptv.github.io/intl/stream/YleTV1.fi.m3u8
+#EXTINF:-1 group-title="Genel",Yle TV2
+https://soyluiptv.github.io/intl/stream/YleTV2.fi.m3u8
+#EXTINF:-1 group-title="Music",YleX
+https://soyluiptv.github.io/intl/stream/YleX.fi.m3u8

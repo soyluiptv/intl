@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title="Legislative",Al Barlemania
+https://soyluiptv.github.io/intl/stream/AlBarlemania.mr.m3u8
+#EXTINF:-1 group-title="Sports",Arriadia
+https://soyluiptv.github.io/intl/stream/Arriadia.mr.m3u8
+#EXTINF:-1 group-title="Culture",Athagavia
+https://soyluiptv.github.io/intl/stream/Athagavia.mr.m3u8
+#EXTINF:-1 group-title="General",Chinguit TV
+https://soyluiptv.github.io/intl/stream/ChinguitTV.mr.m3u8
+#EXTINF:-1 group-title="General",Dava TV
+https://soyluiptv.github.io/intl/stream/DavaTV.mr.m3u8
+#EXTINF:-1 group-title="Religious",El Mahadra
+https://soyluiptv.github.io/intl/stream/ElMahadra.mr.m3u8
+#EXTINF:-1 group-title="General",El Medina
+https://soyluiptv.github.io/intl/stream/ElMedina.mr.m3u8
+#EXTINF:-1 group-title="General",Elmourabiton TV
+https://soyluiptv.github.io/intl/stream/ElmourabitonTV.mr.m3u8
+#EXTINF:-1 group-title="General",Elmouritania
+https://soyluiptv.github.io/intl/stream/Elmouritania.mr.m3u8
+#EXTINF:-1 group-title="General",Elmouritania 2
+https://soyluiptv.github.io/intl/stream/Elmouritania2.mr.m3u8
+#EXTINF:-1 group-title="General",El Oussra TV
+https://soyluiptv.github.io/intl/stream/ElOussraTV.mr.m3u8
+#EXTINF:-1 group-title="General",Elwataniya TV
+https://soyluiptv.github.io/intl/stream/ElwataniyaTV.mr.m3u8
+#EXTINF:-1 group-title="General",Ghimem TV
+https://soyluiptv.github.io/intl/stream/GhimemTV.mr.m3u8
+#EXTINF:-1 group-title="Culture",HOLPAC TV
+https://soyluiptv.github.io/intl/stream/HOLPACTV.mr.m3u8
+#EXTINF:-1 group-title="News",Sahara 24
+https://soyluiptv.github.io/intl/stream/Sahara24.mr.m3u8
+#EXTINF:-1 group-title="General",Sahel TV
+https://soyluiptv.github.io/intl/stream/SahelTV.mr.m3u8

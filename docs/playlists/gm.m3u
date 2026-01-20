@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",Block TV
+https://soyluiptv.github.io/intl/stream/BlockTV.gm.m3u8
+#EXTINF:-1 group-title="News",Eye Africa TV
+https://soyluiptv.github.io/intl/stream/EyeAfricaTV.gm.m3u8
+#EXTINF:-1 group-title="General",GRTS TV
+https://soyluiptv.github.io/intl/stream/GRTSTV.gm.m3u8
+#EXTINF:-1 group-title="Religious",MTA Gambia
+https://soyluiptv.github.io/intl/stream/MTAGambia.gm.m3u8
+#EXTINF:-1 group-title="General",Paradise TV
+https://soyluiptv.github.io/intl/stream/ParadiseTV.gm.m3u8
+#EXTINF:-1 group-title="General",QTV Gambia
+https://soyluiptv.github.io/intl/stream/QTVGambia.gm.m3u8
+#EXTINF:-1 group-title="General",Star TV
+https://soyluiptv.github.io/intl/stream/StarTV.gm.m3u8

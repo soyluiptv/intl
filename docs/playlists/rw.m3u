@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",Ahupa Visual Radio
+https://soyluiptv.github.io/intl/stream/AhupaVisualRadio.rw.m3u8
+#EXTINF:-1 group-title="Religious",Authentic TV
+https://soyluiptv.github.io/intl/stream/AuthenticTV.rw.m3u8
+#EXTINF:-1 group-title="Religious",BCN TV
+https://soyluiptv.github.io/intl/stream/BCNTV.rw.m3u8
+#EXTINF:-1 group-title="Entertainment",B+ TV
+https://soyluiptv.github.io/intl/stream/BPlusTV.rw.m3u8
+#EXTINF:-1 group-title="General",BTN TV
+https://soyluiptv.github.io/intl/stream/BTNTV.rw.m3u8
+#EXTINF:-1 group-title="General",BTV
+https://soyluiptv.github.io/intl/stream/BTV.rw.m3u8
+#EXTINF:-1 group-title="Religious",Contact TV
+https://soyluiptv.github.io/intl/stream/ContactTV.rw.m3u8
+#EXTINF:-1 group-title="Entertainment",EAMG TV
+https://soyluiptv.github.io/intl/stream/EAMGTV.rw.m3u8
+#EXTINF:-1 group-title="Science",ETV Rwanda
+https://soyluiptv.github.io/intl/stream/ETVRwanda.rw.m3u8
+#EXTINF:-1 group-title="General",Flash TV
+https://soyluiptv.github.io/intl/stream/FlashTV.rw.m3u8
+#EXTINF:-1 group-title="Religious",Genesis TV
+https://soyluiptv.github.io/intl/stream/GenesisTV.rw.m3u8
+#EXTINF:-1 group-title="Business",Goodrich TV
+https://soyluiptv.github.io/intl/stream/GoodrichTV.rw.m3u8
+#EXTINF:-1 group-title="Music",Isango TV
+https://soyluiptv.github.io/intl/stream/IsangoTV.rw.m3u8
+#EXTINF:-1 group-title="Culture",Ishusho TV
+https://soyluiptv.github.io/intl/stream/IshushoTV.rw.m3u8
+#EXTINF:-1 group-title="General",Isibo TV
+https://soyluiptv.github.io/intl/stream/IsiboTV.rw.m3u8
+#EXTINF:-1 group-title="General",Izuba TV
+https://soyluiptv.github.io/intl/stream/IzubaTV.rw.m3u8
+#EXTINF:-1 group-title="Entertainment",KC2
+https://soyluiptv.github.io/intl/stream/KC2.rw.m3u8
+#EXTINF:-1 group-title="Sports",Magic Sports TV
+https://soyluiptv.github.io/intl/stream/MagicSportsTV.rw.m3u8
+#EXTINF:-1 group-title="Religious",Pacis TV
+https://soyluiptv.github.io/intl/stream/PacisTV.rw.m3u8
+#EXTINF:-1 group-title="General",Rwanda TV
+https://soyluiptv.github.io/intl/stream/RwandaTV.rw.m3u8
+#EXTINF:-1 group-title="General",TV1
+https://soyluiptv.github.io/intl/stream/TV1.rw.m3u8
+#EXTINF:-1 group-title="General",TV10
+https://soyluiptv.github.io/intl/stream/TV10.rw.m3u8
+#EXTINF:-1 group-title="Religious",TV O Rwanda
+https://soyluiptv.github.io/intl/stream/TVORwanda.rw.m3u8
+#EXTINF:-1 group-title="General",Yongwe TV
+https://soyluiptv.github.io/intl/stream/YongweTV.rw.m3u8
+#EXTINF:-1 group-title="Entertainment",ZACU TV
+https://soyluiptv.github.io/intl/stream/ZACUTV.rw.m3u8

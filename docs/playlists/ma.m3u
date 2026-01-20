@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",2M
+https://soyluiptv.github.io/intl/stream/2M.ma.m3u8
+#EXTINF:-1 group-title="General",2M MENA
+https://soyluiptv.github.io/intl/stream/2MMENA.ma.m3u8
+#EXTINF:-1 group-title="General",2M Monde
+https://soyluiptv.github.io/intl/stream/2MMonde.ma.m3u8
+#EXTINF:-1 group-title="Movies",Aflam TV
+https://soyluiptv.github.io/intl/stream/AflamTV.ma.m3u8
+#EXTINF:-1 group-title="General",Al Aoula
+https://soyluiptv.github.io/intl/stream/AlAoula.ma.m3u8
+#EXTINF:-1 group-title="General",Al Maghribia
+https://soyluiptv.github.io/intl/stream/AlMaghribia.ma.m3u8
+#EXTINF:-1 group-title="Religious",Al Ons TV
+https://soyluiptv.github.io/intl/stream/AlOnsTV.ma.m3u8
+#EXTINF:-1 group-title="Sports",Arryadia
+https://soyluiptv.github.io/intl/stream/Arryadia.ma.m3u8
+#EXTINF:-1 group-title="Religious",Assadissa
+https://soyluiptv.github.io/intl/stream/Assadissa.ma.m3u8
+#EXTINF:-1 group-title="Culture",Athaqafia
+https://soyluiptv.github.io/intl/stream/Athaqafia.ma.m3u8
+#EXTINF:-1 group-title="Education",Campus Maroc TV
+https://soyluiptv.github.io/intl/stream/CampusMarocTV.ma.m3u8
+#EXTINF:-1 group-title="Sports",Canal Atlas Fight
+https://soyluiptv.github.io/intl/stream/CanalAtlasFight.ma.m3u8
+#EXTINF:-1 group-title="General",Chada TV
+https://soyluiptv.github.io/intl/stream/ChadaTV.ma.m3u8
+#EXTINF:-1 group-title="General",Chouf TV
+https://soyluiptv.github.io/intl/stream/ChoufTV.ma.m3u8
+#EXTINF:-1 group-title="Sports",Cote & Sport 1
+https://soyluiptv.github.io/intl/stream/CoteSport1.ma.m3u8
+#EXTINF:-1 group-title="Sports",Cote & Sport 2
+https://soyluiptv.github.io/intl/stream/CoteSport2.ma.m3u8
+#EXTINF:-1 group-title="General",Laayoune TV
+https://soyluiptv.github.io/intl/stream/LaayouneTV.ma.m3u8
+#EXTINF:-1 group-title="Genel",L'Match
+https://soyluiptv.github.io/intl/stream/LMatch.ma.m3u8
+#EXTINF:-1 group-title="News",M24 TV
+https://soyluiptv.github.io/intl/stream/M24TV.ma.m3u8
+#EXTINF:-1 group-title="News",Medi1TV Afrique
+https://soyluiptv.github.io/intl/stream/Medi1TVAfrique.ma.m3u8
+#EXTINF:-1 group-title="News",Medi1TV Arabic
+https://soyluiptv.github.io/intl/stream/Medi1TVArabic.ma.m3u8
+#EXTINF:-1 group-title="News",Medi1TV Maghreb
+https://soyluiptv.github.io/intl/stream/Medi1TVMaghreb.ma.m3u8
+#EXTINF:-1 group-title="Genel",Sloog
+https://soyluiptv.github.io/intl/stream/Sloog.ma.m3u8
+#EXTINF:-1 group-title="Sports",Sorec TV
+https://soyluiptv.github.io/intl/stream/SorecTV.ma.m3u8
+#EXTINF:-1 group-title="Culture",StoryChannel TV
+https://soyluiptv.github.io/intl/stream/StoryChannelTV.ma.m3u8
+#EXTINF:-1 group-title="General",Tamazight TV
+https://soyluiptv.github.io/intl/stream/TamazightTV.ma.m3u8
+#EXTINF:-1 group-title="Culture",Tele Maroc
+https://soyluiptv.github.io/intl/stream/TeleMaroc.ma.m3u8

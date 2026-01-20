@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="News",Radio TV Bantaba
+https://soyluiptv.github.io/intl/stream/RadioTVBantaba.gw.m3u8
+#EXTINF:-1 group-title="General",TGB
+https://soyluiptv.github.io/intl/stream/TGB.gw.m3u8

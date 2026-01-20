@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies",312 Kino
+https://soyluiptv.github.io/intl/stream/312Kino.kg.m3u8
+#EXTINF:-1 group-title="Music",312 Muzyka
+https://soyluiptv.github.io/intl/stream/312Muzyka.kg.m3u8
+#EXTINF:-1 group-title="Entertainment",312 TV
+https://soyluiptv.github.io/intl/stream/312TV.kg.m3u8
+#EXTINF:-1 group-title="News",Ala-Too 24
+https://soyluiptv.github.io/intl/stream/AlaToo24.kg.m3u8
+#EXTINF:-1 group-title="General",Aprel TV
+https://soyluiptv.github.io/intl/stream/AprelTV.kg.m3u8
+#EXTINF:-1 group-title="Culture",Asia TV
+https://soyluiptv.github.io/intl/stream/AsiaTV.kg.m3u8
+#EXTINF:-1 group-title="Kids",Balastan
+https://soyluiptv.github.io/intl/stream/Balastan.kg.m3u8
+#EXTINF:-1 group-title="Kids",Bilim Ilim
+https://soyluiptv.github.io/intl/stream/BilimIlim.kg.m3u8
+#EXTINF:-1 group-title="Genel",Channel 5 Kyrgyzstan
+https://soyluiptv.github.io/intl/stream/Channel5Kyrgyzstan.kg.m3u8
+#EXTINF:-1 group-title="Genel",Channel 7 Kyrgyzstan
+https://soyluiptv.github.io/intl/stream/Channel7Kyrgyzstan.kg.m3u8
+#EXTINF:-1 group-title="General",ElTR
+https://soyluiptv.github.io/intl/stream/ElTR.kg.m3u8
+#EXTINF:-1 group-title="Sports",Kyrgyz Sport TV
+https://soyluiptv.github.io/intl/stream/KyrgyzSportTV.kg.m3u8
+#EXTINF:-1 group-title="Entertainment",Lubimyi HD
+https://soyluiptv.github.io/intl/stream/LubimyiHD.kg.m3u8
+#EXTINF:-1 group-title="Culture",Madaniyat
+https://soyluiptv.github.io/intl/stream/Madaniyat.kg.m3u8
+#EXTINF:-1 group-title="Culture",Manas TV
+https://soyluiptv.github.io/intl/stream/ManasTV.kg.m3u8
+#EXTINF:-1 group-title="Music",Music
+https://soyluiptv.github.io/intl/stream/Music.kg.m3u8
+#EXTINF:-1 group-title="Genel",New TV
+https://soyluiptv.github.io/intl/stream/NewTV.kg.m3u8
+#EXTINF:-1 group-title="Genel",Next TV
+https://soyluiptv.github.io/intl/stream/NextTV.kg.m3u8
+#EXTINF:-1 group-title="News",Nomad TV
+https://soyluiptv.github.io/intl/stream/NomadTV.kg.m3u8
+#EXTINF:-1 group-title="General",NTS
+https://soyluiptv.github.io/intl/stream/NTS.kg.m3u8
+#EXTINF:-1 group-title="General",Osh Pirim
+https://soyluiptv.github.io/intl/stream/OshPirim.kg.m3u8
+#EXTINF:-1 group-title="General",OshTV
+https://soyluiptv.github.io/intl/stream/OshTV.kg.m3u8
+#EXTINF:-1 group-title="News",Region TV
+https://soyluiptv.github.io/intl/stream/RegionTV.kg.m3u8
+#EXTINF:-1 group-title="Family",Semeinyi
+https://soyluiptv.github.io/intl/stream/Semeinyi.kg.m3u8
+#EXTINF:-1 group-title="Sports",Sport
+https://soyluiptv.github.io/intl/stream/Sport.kg.m3u8
+#EXTINF:-1 group-title="General",TV15
+https://soyluiptv.github.io/intl/stream/TV15.kg.m3u8
+#EXTINF:-1 group-title="General",TV1.KG
+https://soyluiptv.github.io/intl/stream/TV1KG.kg.m3u8
+#EXTINF:-1 group-title="General",UTRK
+https://soyluiptv.github.io/intl/stream/UTRK.kg.m3u8

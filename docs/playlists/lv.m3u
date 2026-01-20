@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 group-title="Genel",1+2
+https://soyluiptv.github.io/intl/stream/1Plus2.lv.m3u8
+#EXTINF:-1 group-title="General",360TV
+https://soyluiptv.github.io/intl/stream/360TV.lv.m3u8
+#EXTINF:-1 group-title="General",8TV
+https://soyluiptv.github.io/intl/stream/8TV.lv.m3u8
+#EXTINF:-1 group-title="Music",ATV
+https://soyluiptv.github.io/intl/stream/ATV.lv.m3u8
+#EXTINF:-1 group-title="Sports",Best4Sport.TV
+https://soyluiptv.github.io/intl/stream/Best4SportTV.lv.m3u8
+#EXTINF:-1 group-title="Genel",Chau TV
+https://soyluiptv.github.io/intl/stream/ChauTV.lv.m3u8
+#EXTINF:-1 group-title="Entertainment",Discovery Channel
+https://soyluiptv.github.io/intl/stream/DiscoveryChannel.lv.m3u8
+#EXTINF:-1 group-title="Genel",Duo 6
+https://soyluiptv.github.io/intl/stream/Duo6.lv.m3u8
+#EXTINF:-1 group-title="Religious",EWTN Latvija
+https://soyluiptv.github.io/intl/stream/EWTNLatvija.lv.m3u8
+#EXTINF:-1 group-title="General",Gribu visu zinat
+https://soyluiptv.github.io/intl/stream/Gribuvisuzinat.lv.m3u8
+#EXTINF:-1 group-title="Documentary",Kanal 7 Baltics
+https://soyluiptv.github.io/intl/stream/Kanal7Baltics.lv.m3u8
+#EXTINF:-1 group-title="Religious",Katolis TV
+https://soyluiptv.github.io/intl/stream/KatolisTV.lv.m3u8
+#EXTINF:-1 group-title="General",Kurzemes Televizija
+https://soyluiptv.github.io/intl/stream/KurzemesTelevizija.lv.m3u8
+#EXTINF:-1 group-title="Music",Latvijas Slagerkanals
+https://soyluiptv.github.io/intl/stream/LatvijasSlagerkanals.lv.m3u8
+#EXTINF:-1 group-title="General",LRT+
+https://soyluiptv.github.io/intl/stream/LRTPlus.lv.m3u8
+#EXTINF:-1 group-title="General",LTV1
+https://soyluiptv.github.io/intl/stream/LTV1.lv.m3u8
+#EXTINF:-1 group-title="Entertainment",LTV7
+https://soyluiptv.github.io/intl/stream/LTV7.lv.m3u8
+#EXTINF:-1 group-title="Classic",Movify Kino
+https://soyluiptv.github.io/intl/stream/MovifyKino.lv.m3u8
+#EXTINF:-1 group-title="Animation",Multimania
+https://soyluiptv.github.io/intl/stream/Multimania.lv.m3u8
+#EXTINF:-1 group-title="Music",Muzikas Video Kanals
+https://soyluiptv.github.io/intl/stream/MuzikasVideoKanals.lv.m3u8
+#EXTINF:-1 group-title="General",PBK Latvia
+https://soyluiptv.github.io/intl/stream/PBKLatvia.lv.m3u8
+#EXTINF:-1 group-title="Animation",Pingviins
+https://soyluiptv.github.io/intl/stream/Pingviins.lv.m3u8
+#EXTINF:-1 group-title="Music",Radio SWH TV
+https://soyluiptv.github.io/intl/stream/RadioSWHTV.lv.m3u8
+#EXTINF:-1 group-title="Genel",REN TV Baltic
+https://soyluiptv.github.io/intl/stream/RENTVBaltic.lv.m3u8
+#EXTINF:-1 group-title="Genel",Re TV
+https://soyluiptv.github.io/intl/stream/ReTV.lv.m3u8
+#EXTINF:-1 group-title="Genel",Sea TV
+https://soyluiptv.github.io/intl/stream/SeaTV.lv.m3u8
+#EXTINF:-1 group-title="Sports",Sportacentrs TV
+https://soyluiptv.github.io/intl/stream/SportacentrsTV.lv.m3u8
+#EXTINF:-1 group-title="Entertainment",STV Pirma
+https://soyluiptv.github.io/intl/stream/STVPirma.lv.m3u8
+#EXTINF:-1 group-title="Genel",TV24
+https://soyluiptv.github.io/intl/stream/TV24.lv.m3u8
+#EXTINF:-1 group-title="Entertainment",TV3
+https://soyluiptv.github.io/intl/stream/TV3.lv.m3u8
+#EXTINF:-1 group-title="Entertainment",TV3 Life
+https://soyluiptv.github.io/intl/stream/TV3Life.lv.m3u8
+#EXTINF:-1 group-title="Animation",TV3 Mini
+https://soyluiptv.github.io/intl/stream/TV3Mini.lv.m3u8
+#EXTINF:-1 group-title="Entertainment",TV3 Plus
+https://soyluiptv.github.io/intl/stream/TV3Plus.lv.m3u8
+#EXTINF:-1 group-title="Entertainment",TV4
+https://soyluiptv.github.io/intl/stream/TV4.lv.m3u8
+#EXTINF:-1 group-title="Genel",TV6
+https://soyluiptv.github.io/intl/stream/TV6.lv.m3u8
+#EXTINF:-1 group-title="General",TV9 Pakalni
+https://soyluiptv.github.io/intl/stream/TV9Pakalni.lv.m3u8
+#EXTINF:-1 group-title="General",TV Jurmala
+https://soyluiptv.github.io/intl/stream/TVJurmala.lv.m3u8
+#EXTINF:-1 group-title="General",TV Kurzeme
+https://soyluiptv.github.io/intl/stream/TVKurzeme.lv.m3u8
+#EXTINF:-1 group-title="Genel",TVNET
+https://soyluiptv.github.io/intl/stream/TVNET.lv.m3u8
+#EXTINF:-1 group-title="General",TV Skrunda
+https://soyluiptv.github.io/intl/stream/TVSkrunda.lv.m3u8
+#EXTINF:-1 group-title="Genel",TV XXI
+https://soyluiptv.github.io/intl/stream/TVXXI.lv.m3u8
+#EXTINF:-1 group-title="General",Vidusdaugavas Televizija
+https://soyluiptv.github.io/intl/stream/VidusdaugavasTelevizija.lv.m3u8
+#EXTINF:-1 group-title="General",Visiem LTV
+https://soyluiptv.github.io/intl/stream/VisiemLTV.lv.m3u8
+#EXTINF:-1 group-title="General",Zemgales TV
+https://soyluiptv.github.io/intl/stream/ZemgalesTV.lv.m3u8

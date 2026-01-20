@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",Huri TV
+https://soyluiptv.github.io/intl/stream/HuriTV.km.m3u8
+#EXTINF:-1 group-title="General",ORTC TV
+https://soyluiptv.github.io/intl/stream/ORTCTV.km.m3u8

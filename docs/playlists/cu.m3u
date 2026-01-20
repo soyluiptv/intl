@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Artemisa Vision
+https://soyluiptv.github.io/intl/stream/ArtemisaVision.cu.m3u8
+#EXTINF:-1 group-title="General",Canal Azul
+https://soyluiptv.github.io/intl/stream/CanalAzul.cu.m3u8
+#EXTINF:-1 group-title="News",Canal Caribe
+https://soyluiptv.github.io/intl/stream/CanalCaribe.cu.m3u8
+#EXTINF:-1 group-title="Music",Canal Clave
+https://soyluiptv.github.io/intl/stream/CanalClave.cu.m3u8
+#EXTINF:-1 group-title="Education",Canal Educativo
+https://soyluiptv.github.io/intl/stream/CanalEducativo.cu.m3u8
+#EXTINF:-1 group-title="Education",Canal Educativo 2
+https://soyluiptv.github.io/intl/stream/CanalEducativo2.cu.m3u8
+#EXTINF:-1 group-title="General",Canal Habana
+https://soyluiptv.github.io/intl/stream/CanalHabana.cu.m3u8
+#EXTINF:-1 group-title="General",Centro Norte Television
+https://soyluiptv.github.io/intl/stream/CentroNorteTelevision.cu.m3u8
+#EXTINF:-1 group-title="General",Centrovision Yayabo
+https://soyluiptv.github.io/intl/stream/CentrovisionYayabo.cu.m3u8
+#EXTINF:-1 group-title="General",CNC TV Granma
+https://soyluiptv.github.io/intl/stream/CNCTVGranma.cu.m3u8
+#EXTINF:-1 group-title="General",Cubavision
+https://soyluiptv.github.io/intl/stream/Cubavision.cu.m3u8
+#EXTINF:-1 group-title="General",Cubavision Internacional
+https://soyluiptv.github.io/intl/stream/CubavisionInternacional.cu.m3u8
+#EXTINF:-1 group-title="General",Cubavision Plus
+https://soyluiptv.github.io/intl/stream/CubavisionPlus.cu.m3u8
+#EXTINF:-1 group-title="General",Gibaravision
+https://soyluiptv.github.io/intl/stream/Gibaravision.cu.m3u8
+#EXTINF:-1 group-title="General",Golfovision
+https://soyluiptv.github.io/intl/stream/Golfovision.cu.m3u8
+#EXTINF:-1 group-title="General",Guines TV
+https://soyluiptv.github.io/intl/stream/GuinesTV.cu.m3u8
+#EXTINF:-1 group-title="General",Islavision
+https://soyluiptv.github.io/intl/stream/Islavision.cu.m3u8
+#EXTINF:-1 group-title="General",Moa TV
+https://soyluiptv.github.io/intl/stream/MoaTV.cu.m3u8
+#EXTINF:-1 group-title="General",Moron TV
+https://soyluiptv.github.io/intl/stream/MoronTV.cu.m3u8
+#EXTINF:-1 group-title="General",Multivision
+https://soyluiptv.github.io/intl/stream/Multivision.cu.m3u8
+#EXTINF:-1 group-title="General",Nuevavision
+https://soyluiptv.github.io/intl/stream/Nuevavision.cu.m3u8
+#EXTINF:-1 group-title="General",Palma TV
+https://soyluiptv.github.io/intl/stream/PalmaTV.cu.m3u8
+#EXTINF:-1 group-title="General",Perlavision
+https://soyluiptv.github.io/intl/stream/Perlavision.cu.m3u8
+#EXTINF:-1 group-title="General",Portada Vision
+https://soyluiptv.github.io/intl/stream/PortadaVision.cu.m3u8
+#EXTINF:-1 group-title="News",Prensa Latina TV
+https://soyluiptv.github.io/intl/stream/PrensaLatinaTV.cu.m3u8
+#EXTINF:-1 group-title="General",Primada Vision
+https://soyluiptv.github.io/intl/stream/PrimadaVision.cu.m3u8
+#EXTINF:-1 group-title="General",Sagua Vision
+https://soyluiptv.github.io/intl/stream/SaguaVision.cu.m3u8
+#EXTINF:-1 group-title="General",Sandino Vision
+https://soyluiptv.github.io/intl/stream/SandinoVision.cu.m3u8
+#EXTINF:-1 group-title="News",Senal ACN
+https://soyluiptv.github.io/intl/stream/SenalACN.cu.m3u8
+#EXTINF:-1 group-title="General",Solvision
+https://soyluiptv.github.io/intl/stream/Solvision.cu.m3u8
+#EXTINF:-1 group-title="General",Telebandera
+https://soyluiptv.github.io/intl/stream/Telebandera.cu.m3u8
+#EXTINF:-1 group-title="General",Telecristal
+https://soyluiptv.github.io/intl/stream/Telecristal.cu.m3u8
+#EXTINF:-1 group-title="General",Telecubanacan
+https://soyluiptv.github.io/intl/stream/Telecubanacan.cu.m3u8
+#EXTINF:-1 group-title="General",TeleMar
+https://soyluiptv.github.io/intl/stream/TeleMar.cu.m3u8
+#EXTINF:-1 group-title="General",Telemayabeque
+https://soyluiptv.github.io/intl/stream/Telemayabeque.cu.m3u8
+#EXTINF:-1 group-title="General",Tele Pinar
+https://soyluiptv.github.io/intl/stream/TelePinar.cu.m3u8
+#EXTINF:-1 group-title="Sports",Tele Rebelde
+https://soyluiptv.github.io/intl/stream/TeleRebelde.cu.m3u8
+#EXTINF:-1 group-title="General",Tele Turquino
+https://soyluiptv.github.io/intl/stream/TeleTurquino.cu.m3u8
+#EXTINF:-1 group-title="General",Television Avilena
+https://soyluiptv.github.io/intl/stream/TelevisionAvilena.cu.m3u8
+#EXTINF:-1 group-title="General",Television Camaguey
+https://soyluiptv.github.io/intl/stream/TelevisionCamaguey.cu.m3u8
+#EXTINF:-1 group-title="General",Television Serrana
+https://soyluiptv.github.io/intl/stream/TelevisionSerrana.cu.m3u8
+#EXTINF:-1 group-title="General",TunasVision
+https://soyluiptv.github.io/intl/stream/TunasVision.cu.m3u8
+#EXTINF:-1 group-title="General",TV Yumuri
+https://soyluiptv.github.io/intl/stream/TVYumuri.cu.m3u8

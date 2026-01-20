@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",6TV
+https://soyluiptv.github.io/intl/stream/6TV.mz.m3u8
+#EXTINF:-1 group-title="General",Afro TV
+https://soyluiptv.github.io/intl/stream/AfroTV.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",Canal 258
+https://soyluiptv.github.io/intl/stream/Canal258.mz.m3u8
+#EXTINF:-1 group-title="Movies",CTV
+https://soyluiptv.github.io/intl/stream/CTV.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",Dual TV
+https://soyluiptv.github.io/intl/stream/DualTV.mz.m3u8
+#EXTINF:-1 group-title="Religious",Ebenezer TV
+https://soyluiptv.github.io/intl/stream/EbenezerTV.mz.m3u8
+#EXTINF:-1 group-title="General",EcoTV
+https://soyluiptv.github.io/intl/stream/EcoTV.mz.m3u8
+#EXTINF:-1 group-title="General",Focos TV
+https://soyluiptv.github.io/intl/stream/FocosTV.mz.m3u8
+#EXTINF:-1 group-title="General",FTV
+https://soyluiptv.github.io/intl/stream/FTV.mz.m3u8
+#EXTINF:-1 group-title="Culture",Gloom Channel
+https://soyluiptv.github.io/intl/stream/GloomChannel.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",Gungu TV
+https://soyluiptv.github.io/intl/stream/GunguTV.mz.m3u8
+#EXTINF:-1 group-title="Religious",Haq TV
+https://soyluiptv.github.io/intl/stream/HaqTV.mz.m3u8
+#EXTINF:-1 group-title="News",Indico News TV
+https://soyluiptv.github.io/intl/stream/IndicoNewsTV.mz.m3u8
+#EXTINF:-1 group-title="Religious",ITV
+https://soyluiptv.github.io/intl/stream/ITV.mz.m3u8
+#EXTINF:-1 group-title="Religious",JTV
+https://soyluiptv.github.io/intl/stream/JTV.mz.m3u8
+#EXTINF:-1 group-title="Religious",Kingdom TV
+https://soyluiptv.github.io/intl/stream/KingdomTV.mz.m3u8
+#EXTINF:-1 group-title="Religious",KTV
+https://soyluiptv.github.io/intl/stream/KTV.mz.m3u8
+#EXTINF:-1 group-title="General",Limpopo Channel
+https://soyluiptv.github.io/intl/stream/LimpopoChannel.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",Luz TV
+https://soyluiptv.github.io/intl/stream/LuzTV.mz.m3u8
+#EXTINF:-1 group-title="News",MBC TV
+https://soyluiptv.github.io/intl/stream/MBCTV.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",M Channel
+https://soyluiptv.github.io/intl/stream/MChannel.mz.m3u8
+#EXTINF:-1 group-title="General",Media Mais TV
+https://soyluiptv.github.io/intl/stream/MediaMaisTV.mz.m3u8
+#EXTINF:-1 group-title="General",Mega TV
+https://soyluiptv.github.io/intl/stream/MegaTV.mz.m3u8
+#EXTINF:-1 group-title="General",Mind Cast TV
+https://soyluiptv.github.io/intl/stream/MindCastTV.mz.m3u8
+#EXTINF:-1 group-title="Religious",Noor Televisao
+https://soyluiptv.github.io/intl/stream/NoorTelevisao.mz.m3u8
+#EXTINF:-1 group-title="General",PSTV
+https://soyluiptv.github.io/intl/stream/PSTV.mz.m3u8
+#EXTINF:-1 group-title="General",RAM TV
+https://soyluiptv.github.io/intl/stream/RAMTV.mz.m3u8
+#EXTINF:-1 group-title="Kids",Reino Infantil
+https://soyluiptv.github.io/intl/stream/ReinoInfantil.mz.m3u8
+#EXTINF:-1 group-title="Religious",RTV Alfa e Omega
+https://soyluiptv.github.io/intl/stream/RTVAlfaeOmega.mz.m3u8
+#EXTINF:-1 group-title="General",Strong Live
+https://soyluiptv.github.io/intl/stream/StrongLive.mz.m3u8
+#EXTINF:-1 group-title="General",STV
+https://soyluiptv.github.io/intl/stream/STV.mz.m3u8
+#EXTINF:-1 group-title="News",STV Noticias
+https://soyluiptv.github.io/intl/stream/STVNoticias.mz.m3u8
+#EXTINF:-1 group-title="Education",Televisao Academica
+https://soyluiptv.github.io/intl/stream/TelevisaoAcademica.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",Top TV
+https://soyluiptv.github.io/intl/stream/TopTV.mz.m3u8
+#EXTINF:-1 group-title="General",Tua TV
+https://soyluiptv.github.io/intl/stream/TuaTV.mz.m3u8
+#EXTINF:-1 group-title="Religious",TV Accao
+https://soyluiptv.github.io/intl/stream/TVAccao.mz.m3u8
+#EXTINF:-1 group-title="General",TV Gloria
+https://soyluiptv.github.io/intl/stream/TVGloria.mz.m3u8
+#EXTINF:-1 group-title="General",TVM
+https://soyluiptv.github.io/intl/stream/TVM.mz.m3u8
+#EXTINF:-1 group-title="Genel",TVM 2
+https://soyluiptv.github.io/intl/stream/TVM2.mz.m3u8
+#EXTINF:-1 group-title="Religious",TV Mana Mocambique
+https://soyluiptv.github.io/intl/stream/TVManaMocambique.mz.m3u8
+#EXTINF:-1 group-title="General",TVM Internacional
+https://soyluiptv.github.io/intl/stream/TVMInternacional.mz.m3u8
+#EXTINF:-1 group-title="General",TV Miramar
+https://soyluiptv.github.io/intl/stream/TVMiramar.mz.m3u8
+#EXTINF:-1 group-title="Genel",TVM Telescola
+https://soyluiptv.github.io/intl/stream/TVMTelescola.mz.m3u8
+#EXTINF:-1 group-title="General",TV Muniga
+https://soyluiptv.github.io/intl/stream/TVMuniga.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",TV Revolucao
+https://soyluiptv.github.io/intl/stream/TVRevolucao.mz.m3u8
+#EXTINF:-1 group-title="General",TV Sucesso
+https://soyluiptv.github.io/intl/stream/TVSucesso.mz.m3u8
+#EXTINF:-1 group-title="Entertainment",TV Vitoria
+https://soyluiptv.github.io/intl/stream/TVVitoria.mz.m3u8
+#EXTINF:-1 group-title="News",Visao Novo Mocambique TV
+https://soyluiptv.github.io/intl/stream/VisaoNovoMocambiqueTV.mz.m3u8

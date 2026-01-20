@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Bahrain International
+https://soyluiptv.github.io/intl/stream/BahrainInternational.bh.m3u8
+#EXTINF:-1 group-title="General",Bahrain Lawal
+https://soyluiptv.github.io/intl/stream/BahrainLawal.bh.m3u8
+#EXTINF:-1 group-title="Religious",Bahrain Quran
+https://soyluiptv.github.io/intl/stream/BahrainQuran.bh.m3u8
+#EXTINF:-1 group-title="Sports",Bahrain Sports 1
+https://soyluiptv.github.io/intl/stream/BahrainSports1.bh.m3u8
+#EXTINF:-1 group-title="Sports",Bahrain Sports 2
+https://soyluiptv.github.io/intl/stream/BahrainSports2.bh.m3u8
+#EXTINF:-1 group-title="General",Bahrain TV
+https://soyluiptv.github.io/intl/stream/BahrainTV.bh.m3u8

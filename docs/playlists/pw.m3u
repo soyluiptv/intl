@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",OTV
+https://soyluiptv.github.io/intl/stream/OTV.pw.m3u8
+#EXTINF:-1 group-title="General",Palau Wave TV
+https://soyluiptv.github.io/intl/stream/PalauWaveTV.pw.m3u8
+#EXTINF:-1 group-title="General",TMC Palau
+https://soyluiptv.github.io/intl/stream/TMCPalau.pw.m3u8

@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious",AC TV
+https://soyluiptv.github.io/intl/stream/ACTV.tg.m3u8
+#EXTINF:-1 group-title="Kids",Ados TV
+https://soyluiptv.github.io/intl/stream/AdosTV.tg.m3u8
+#EXTINF:-1 group-title="Entertainment",Chandel TV
+https://soyluiptv.github.io/intl/stream/ChandelTV.tg.m3u8
+#EXTINF:-1 group-title="General",Direct 7 TV
+https://soyluiptv.github.io/intl/stream/Direct7TV.tg.m3u8
+#EXTINF:-1 group-title="Religious",Dynamic Gospel TV
+https://soyluiptv.github.io/intl/stream/DynamicGospelTV.tg.m3u8
+#EXTINF:-1 group-title="Science",Eco Conscience TV
+https://soyluiptv.github.io/intl/stream/EcoConscienceTV.tg.m3u8
+#EXTINF:-1 group-title="Religious",EPT TV
+https://soyluiptv.github.io/intl/stream/EPTTV.tg.m3u8
+#EXTINF:-1 group-title="General",GMAT Web TV
+https://soyluiptv.github.io/intl/stream/GMATWebTV.tg.m3u8
+#EXTINF:-1 group-title="Outdoor",Green TV International
+https://soyluiptv.github.io/intl/stream/GreenTVInternational.tg.m3u8
+#EXTINF:-1 group-title="Religious",Helios Truth TV
+https://soyluiptv.github.io/intl/stream/HeliosTruthTV.tg.m3u8
+#EXTINF:-1 group-title="Religious",Jes TV
+https://soyluiptv.github.io/intl/stream/JesTV.tg.m3u8
+#EXTINF:-1 group-title="Religious",Juridico-Chretienne TV
+https://soyluiptv.github.io/intl/stream/JuridicoChretienneTV.tg.m3u8
+#EXTINF:-1 group-title="Religious",LNTV
+https://soyluiptv.github.io/intl/stream/LNTV.tg.m3u8
+#EXTINF:-1 group-title="General",MIPC TV
+https://soyluiptv.github.io/intl/stream/MIPCTV.tg.m3u8
+#EXTINF:-1 group-title="Movies",NW Cinema
+https://soyluiptv.github.io/intl/stream/NWCinema.tg.m3u8
+#EXTINF:-1 group-title="Business",NW Economie
+https://soyluiptv.github.io/intl/stream/NWEconomie.tg.m3u8
+#EXTINF:-1 group-title="News",NW Info
+https://soyluiptv.github.io/intl/stream/NWInfo.tg.m3u8
+#EXTINF:-1 group-title="News",NW Info 2
+https://soyluiptv.github.io/intl/stream/NWInfo2.tg.m3u8
+#EXTINF:-1 group-title="Entertainment",NW Magazine
+https://soyluiptv.github.io/intl/stream/NWMagazine.tg.m3u8
+#EXTINF:-1 group-title="Music",NW Muzik
+https://soyluiptv.github.io/intl/stream/NWMuzik.tg.m3u8
+#EXTINF:-1 group-title="Sports",NW Sport 1
+https://soyluiptv.github.io/intl/stream/NWSport1.tg.m3u8
+#EXTINF:-1 group-title="Sports",NW Sport 2
+https://soyluiptv.github.io/intl/stream/NWSport2.tg.m3u8
+#EXTINF:-1 group-title="News",NW Transnat
+https://soyluiptv.github.io/intl/stream/NWTransnat.tg.m3u8
+#EXTINF:-1 group-title="General",One tv
+https://soyluiptv.github.io/intl/stream/Onetv.tg.m3u8
+#EXTINF:-1 group-title="General",Perfect TV
+https://soyluiptv.github.io/intl/stream/PerfectTV.tg.m3u8
+#EXTINF:-1 group-title="General",Pyramide TV
+https://soyluiptv.github.io/intl/stream/PyramideTV.tg.m3u8
+#EXTINF:-1 group-title="Religious",REAL TV
+https://soyluiptv.github.io/intl/stream/REALTV.tg.m3u8
+#EXTINF:-1 group-title="General",RTDS Delta TV
+https://soyluiptv.github.io/intl/stream/RTDSDeltaTV.tg.m3u8
+#EXTINF:-1 group-title="Entertainment",RTJ
+https://soyluiptv.github.io/intl/stream/RTJ.tg.m3u8
+#EXTINF:-1 group-title="Religious",RT JVA
+https://soyluiptv.github.io/intl/stream/RTJVA.tg.m3u8
+#EXTINF:-1 group-title="Religious",SMA Togo TV
+https://soyluiptv.github.io/intl/stream/SMATogoTV.tg.m3u8
+#EXTINF:-1 group-title="Lifestyle",SOS Docteur TV
+https://soyluiptv.github.io/intl/stream/SOSDocteurTV.tg.m3u8
+#EXTINF:-1 group-title="Religious",Tele Bonne Nouvelle
+https://soyluiptv.github.io/intl/stream/TeleBonneNouvelle.tg.m3u8
+#EXTINF:-1 group-title="General",Television Espoir 47
+https://soyluiptv.github.io/intl/stream/TelevisionEspoir47.tg.m3u8
+#EXTINF:-1 group-title="Genel",TLS Africa
+https://soyluiptv.github.io/intl/stream/TLSAfrica.tg.m3u8
+#EXTINF:-1 group-title="General",TV 2
+https://soyluiptv.github.io/intl/stream/TV2.tg.m3u8
+#EXTINF:-1 group-title="General",TV7
+https://soyluiptv.github.io/intl/stream/TV7.tg.m3u8
+#EXTINF:-1 group-title="Religious",TV SPES
+https://soyluiptv.github.io/intl/stream/TVSPES.tg.m3u8
+#EXTINF:-1 group-title="General",TVT
+https://soyluiptv.github.io/intl/stream/TVT.tg.m3u8
+#EXTINF:-1 group-title="General",TVT International
+https://soyluiptv.github.io/intl/stream/TVTInternational.tg.m3u8

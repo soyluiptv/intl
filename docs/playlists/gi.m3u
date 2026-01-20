@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",GBC TV
+https://soyluiptv.github.io/intl/stream/GBCTV.gi.m3u8
+#EXTINF:-1 group-title="Sports",Gibraltar FA TV
+https://soyluiptv.github.io/intl/stream/GibraltarFATV.gi.m3u8

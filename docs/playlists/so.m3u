@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Arlaadi TV
+https://soyluiptv.github.io/intl/stream/ArlaadiTV.so.m3u8
+#EXTINF:-1 group-title="General",Asal TV
+https://soyluiptv.github.io/intl/stream/AsalTV.so.m3u8
+#EXTINF:-1 group-title="General",Banaadir TV
+https://soyluiptv.github.io/intl/stream/BanaadirTV.so.m3u8
+#EXTINF:-1 group-title="Genel",Bulsho TV
+https://soyluiptv.github.io/intl/stream/BulshoTV.so.m3u8
+#EXTINF:-1 group-title="News",Codka Bariga Afrika
+https://soyluiptv.github.io/intl/stream/CodkaBarigaAfrika.so.m3u8
+#EXTINF:-1 group-title="General",Dalka TV
+https://soyluiptv.github.io/intl/stream/DalkaTV.so.m3u8
+#EXTINF:-1 group-title="General",Gobanimo TV
+https://soyluiptv.github.io/intl/stream/GobanimoTV.so.m3u8
+#EXTINF:-1 group-title="News",Goobjoog TV
+https://soyluiptv.github.io/intl/stream/GoobjoogTV.so.m3u8
+#EXTINF:-1 group-title="General",Hirshabelle TV
+https://soyluiptv.github.io/intl/stream/HirshabelleTV.so.m3u8
+#EXTINF:-1 group-title="General",Iftiin TV
+https://soyluiptv.github.io/intl/stream/IftiinTV.so.m3u8
+#EXTINF:-1 group-title="Genel",Jubbaland TV
+https://soyluiptv.github.io/intl/stream/JubbalandTV.so.m3u8
+#EXTINF:-1 group-title="General",KGS TV
+https://soyluiptv.github.io/intl/stream/KGSTV.so.m3u8
+#EXTINF:-1 group-title="General",Maan TV
+https://soyluiptv.github.io/intl/stream/MaanTV.so.m3u8
+#EXTINF:-1 group-title="General",Puntland TV
+https://soyluiptv.github.io/intl/stream/PuntlandTV.so.m3u8
+#EXTINF:-1 group-title="Sports",Rejo Sports
+https://soyluiptv.github.io/intl/stream/RejoSports.so.m3u8
+#EXTINF:-1 group-title="General",Saab TV
+https://soyluiptv.github.io/intl/stream/SaabTV.so.m3u8
+#EXTINF:-1 group-title="General",Sahan TV
+https://soyluiptv.github.io/intl/stream/SahanTV.so.m3u8
+#EXTINF:-1 group-title="General",SBC TV
+https://soyluiptv.github.io/intl/stream/SBCTV.so.m3u8
+#EXTINF:-1 group-title="News",SMS TV
+https://soyluiptv.github.io/intl/stream/SMSTV.so.m3u8
+#EXTINF:-1 group-title="General",SNTV 2
+https://soyluiptv.github.io/intl/stream/SNTV2.so.m3u8
+#EXTINF:-1 group-title="General",SNTV Daljir
+https://soyluiptv.github.io/intl/stream/SNTVDaljir.so.m3u8
+#EXTINF:-1 group-title="Legislative",Somaliland National TV
+https://soyluiptv.github.io/intl/stream/SomalilandNationalTV.so.m3u8
+#EXTINF:-1 group-title="General",Somali National TV
+https://soyluiptv.github.io/intl/stream/SomaliNationalTV.so.m3u8
+#EXTINF:-1 group-title="General",STV Somalia
+https://soyluiptv.github.io/intl/stream/STVSomalia.so.m3u8
+#EXTINF:-1 group-title="General",Voice of Somali TV
+https://soyluiptv.github.io/intl/stream/VoiceofSomaliTV.so.m3u8

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Alizes
+https://soyluiptv.github.io/intl/stream/Alizes.gp.m3u8
+#EXTINF:-1 group-title="General",Canal 10
+https://soyluiptv.github.io/intl/stream/Canal10.gp.m3u8
+#EXTINF:-1 group-title="General",ETV
+https://soyluiptv.github.io/intl/stream/ETV.gp.m3u8
+#EXTINF:-1 group-title="General",Guadeloupe 1ere
+https://soyluiptv.github.io/intl/stream/Guadeloupe1ere.gp.m3u8
+#EXTINF:-1 group-title="Music",Guadeloupe 4 TV
+https://soyluiptv.github.io/intl/stream/Guadeloupe4TV.gp.m3u8
+#EXTINF:-1 group-title="Music",Madras FM TV
+https://soyluiptv.github.io/intl/stream/MadrasFMTV.gp.m3u8
+#EXTINF:-1 group-title="General",MyTV Caraibes
+https://soyluiptv.github.io/intl/stream/MyTVCaraibes.gp.m3u8
+#EXTINF:-1 group-title="Music",NOT' FM
+https://soyluiptv.github.io/intl/stream/NOTFM.gp.m3u8
+#EXTINF:-1 group-title="General",Radio TV Basse-Terre
+https://soyluiptv.github.io/intl/stream/RadioTVBasseTerre.gp.m3u8
+#EXTINF:-1 group-title="Music",RHT Guadeloupe
+https://soyluiptv.github.io/intl/stream/RHTGuadeloupe.gp.m3u8
+#EXTINF:-1 group-title="General",TEVEKA
+https://soyluiptv.github.io/intl/stream/TEVEKA.gp.m3u8
+#EXTINF:-1 group-title="Music",TMA
+https://soyluiptv.github.io/intl/stream/TMA.gp.m3u8

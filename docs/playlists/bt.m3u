@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",BBS 2
+https://soyluiptv.github.io/intl/stream/BBS2.bt.m3u8
+#EXTINF:-1 group-title="Education",BBS Channel 3
+https://soyluiptv.github.io/intl/stream/BBSChannel3.bt.m3u8
+#EXTINF:-1 group-title="General",BBS TV
+https://soyluiptv.github.io/intl/stream/BBSTV.bt.m3u8

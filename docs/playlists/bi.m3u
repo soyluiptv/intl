@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Argos TV
+https://soyluiptv.github.io/intl/stream/ArgosTV.bi.m3u8
+#EXTINF:-1 group-title="Entertainment",BETV
+https://soyluiptv.github.io/intl/stream/BETV.bi.m3u8
+#EXTINF:-1 group-title="General",BNP TV
+https://soyluiptv.github.io/intl/stream/BNPTV.bi.m3u8
+#EXTINF:-1 group-title="Entertainment",Buja TV
+https://soyluiptv.github.io/intl/stream/BujaTV.bi.m3u8
+#EXTINF:-1 group-title="Religious",Heritage TV
+https://soyluiptv.github.io/intl/stream/HeritageTV.bi.m3u8
+#EXTINF:-1 group-title="General",Humuriza TV
+https://soyluiptv.github.io/intl/stream/HumurizaTV.bi.m3u8
+#EXTINF:-1 group-title="Culture",INGOMAG TV
+https://soyluiptv.github.io/intl/stream/INGOMAGTV.bi.m3u8
+#EXTINF:-1 group-title="General",Look Media
+https://soyluiptv.github.io/intl/stream/LookMedia.bi.m3u8
+#EXTINF:-1 group-title="General",Mashariki TV
+https://soyluiptv.github.io/intl/stream/MasharikiTV.bi.m3u8
+#EXTINF:-1 group-title="General",Radio TV Buntu
+https://soyluiptv.github.io/intl/stream/RadioTVBuntu.bi.m3u8
+#EXTINF:-1 group-title="General",Rema TV
+https://soyluiptv.github.io/intl/stream/RemaTV.bi.m3u8
+#EXTINF:-1 group-title="Culture",RTBB
+https://soyluiptv.github.io/intl/stream/RTBB.bi.m3u8
+#EXTINF:-1 group-title="General",RTI
+https://soyluiptv.github.io/intl/stream/RTI.bi.m3u8
+#EXTINF:-1 group-title="Entertainment",RTNB Divertissement
+https://soyluiptv.github.io/intl/stream/RTNBDivertissement.bi.m3u8
+#EXTINF:-1 group-title="General",RTNB TV
+https://soyluiptv.github.io/intl/stream/RTNBTV.bi.m3u8
+#EXTINF:-1 group-title="General",Tele Renaissance
+https://soyluiptv.github.io/intl/stream/TeleRenaissance.bi.m3u8

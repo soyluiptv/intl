@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music",2TV
+https://soyluiptv.github.io/intl/stream/2TV.lt.m3u8
+#EXTINF:-1 group-title="Sports",Arena HD Baltic
+https://soyluiptv.github.io/intl/stream/ArenaHDBaltic.lt.m3u8
+#EXTINF:-1 group-title="Genel",Balticum Auksinis
+https://soyluiptv.github.io/intl/stream/BalticumAuksinis.lt.m3u8
+#EXTINF:-1 group-title="Genel",Balticum Platinum
+https://soyluiptv.github.io/intl/stream/BalticumPlatinum.lt.m3u8
+#EXTINF:-1 group-title="Genel",Balticum TV
+https://soyluiptv.github.io/intl/stream/BalticumTV.lt.m3u8
+#EXTINF:-1 group-title="Culture",BM TV
+https://soyluiptv.github.io/intl/stream/BMTV.lt.m3u8
+#EXTINF:-1 group-title="Genel",BTV
+https://soyluiptv.github.io/intl/stream/BTV.lt.m3u8
+#EXTINF:-1 group-title="General",Delfi TV
+https://soyluiptv.github.io/intl/stream/DelfiTV.lt.m3u8
+#EXTINF:-1 group-title="Genel",Dzukijos TV
+https://soyluiptv.github.io/intl/stream/DzukijosTV.lt.m3u8
+#EXTINF:-1 group-title="General",Etaplius TV
+https://soyluiptv.github.io/intl/stream/EtapliusTV.lt.m3u8
+#EXTINF:-1 group-title="News",GNTV
+https://soyluiptv.github.io/intl/stream/GNTV.lt.m3u8
+#EXTINF:-1 group-title="General",Ignalinos TV
+https://soyluiptv.github.io/intl/stream/IgnalinosTV.lt.m3u8
+#EXTINF:-1 group-title="News",Info TV
+https://soyluiptv.github.io/intl/stream/InfoTV.lt.m3u8
+#EXTINF:-1 group-title="General",INIT Ekstra TV
+https://soyluiptv.github.io/intl/stream/INITEkstraTV.lt.m3u8
+#EXTINF:-1 group-title="Music",INIT Play TV
+https://soyluiptv.github.io/intl/stream/INITPlayTV.lt.m3u8
+#EXTINF:-1 group-title="General",INIT TV
+https://soyluiptv.github.io/intl/stream/INITTV.lt.m3u8
+#EXTINF:-1 group-title="Entertainment",Just TV
+https://soyluiptv.github.io/intl/stream/JustTV.lt.m3u8
+#EXTINF:-1 group-title="Genel",Jusu Panevezys TV
+https://soyluiptv.github.io/intl/stream/JusuPanevezysTV.lt.m3u8
+#EXTINF:-1 group-title="Documentary",Kanal 7 Baltics
+https://soyluiptv.github.io/intl/stream/Kanal7Baltics.lt.m3u8
+#EXTINF:-1 group-title="Sports",KOK Fights TV
+https://soyluiptv.github.io/intl/stream/KOKFightsTV.lt.m3u8
+#EXTINF:-1 group-title="General",Laisves TV
+https://soyluiptv.github.io/intl/stream/LaisvesTV.lt.m3u8
+#EXTINF:-1 group-title="Entertainment",Lietuvos Rytas TV
+https://soyluiptv.github.io/intl/stream/LietuvosRytasTV.lt.m3u8
+#EXTINF:-1 group-title="General",LNK
+https://soyluiptv.github.io/intl/stream/LNK.lt.m3u8
+#EXTINF:-1 group-title="Music",LRT Klasika
+https://soyluiptv.github.io/intl/stream/LRTKlasika.lt.m3u8
+#EXTINF:-1 group-title="General",LRT Lituanica
+https://soyluiptv.github.io/intl/stream/LRTLituanica.lt.m3u8
+#EXTINF:-1 group-title="Music",LRT Opus
+https://soyluiptv.github.io/intl/stream/LRTOpus.lt.m3u8
+#EXTINF:-1 group-title="Culture",LRT Plius
+https://soyluiptv.github.io/intl/stream/LRTPlius.lt.m3u8
+#EXTINF:-1 group-title="News",LRT Radijas
+https://soyluiptv.github.io/intl/stream/LRTRadijas.lt.m3u8
+#EXTINF:-1 group-title="General",LRT TV
+https://soyluiptv.github.io/intl/stream/LRTTV.lt.m3u8
+#EXTINF:-1 group-title="Music",M-1
+https://soyluiptv.github.io/intl/stream/M1.lt.m3u8
+#EXTINF:-1 group-title="General",Marijampoles TV
+https://soyluiptv.github.io/intl/stream/MarijampolesTV.lt.m3u8
+#EXTINF:-1 group-title="General",PBK Lithuania
+https://soyluiptv.github.io/intl/stream/PBKLithuania.lt.m3u8
+#EXTINF:-1 group-title="Animation",Pingvinukas
+https://soyluiptv.github.io/intl/stream/Pingvinukas.lt.m3u8
+#EXTINF:-1 group-title="Music",Power Hit Radio
+https://soyluiptv.github.io/intl/stream/PowerHitRadio.lt.m3u8
+#EXTINF:-1 group-title="General",Pukas-TV
+https://soyluiptv.github.io/intl/stream/PukasTV.lt.m3u8
+#EXTINF:-1 group-title="Genel",REN TV Lithuania
+https://soyluiptv.github.io/intl/stream/RENTVLithuania.lt.m3u8
+#EXTINF:-1 group-title="Legislative",Seimas tiesiogiai
+https://soyluiptv.github.io/intl/stream/Seimastiesiogiai.lt.m3u8
+#EXTINF:-1 group-title="Genel",Siauliu TV
+https://soyluiptv.github.io/intl/stream/SiauliuTV.lt.m3u8
+#EXTINF:-1 group-title="Sports",Sport1
+https://soyluiptv.github.io/intl/stream/Sport1.lt.m3u8
+#EXTINF:-1 group-title="Genel",TV1
+https://soyluiptv.github.io/intl/stream/TV1.lt.m3u8
+#EXTINF:-1 group-title="Genel",TV3
+https://soyluiptv.github.io/intl/stream/TV3.lt.m3u8
+#EXTINF:-1 group-title="Genel",TV6
+https://soyluiptv.github.io/intl/stream/TV6.lt.m3u8
+#EXTINF:-1 group-title="General",TV7
+https://soyluiptv.github.io/intl/stream/TV7.lt.m3u8
+#EXTINF:-1 group-title="Genel",TV8
+https://soyluiptv.github.io/intl/stream/TV8.lt.m3u8
+#EXTINF:-1 group-title="Shop",TV Pirk Ir Imk
+https://soyluiptv.github.io/intl/stream/TVPirkIrImk.lt.m3u8
+#EXTINF:-1 group-title="Genel",ZTV
+https://soyluiptv.github.io/intl/stream/ZTV.lt.m3u8
+#EXTINF:-1 group-title="General",Zvaigzde TV
+https://soyluiptv.github.io/intl/stream/ZvaigzdeTV.lt.m3u8

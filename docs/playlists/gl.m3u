@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",KNR1
+https://soyluiptv.github.io/intl/stream/KNR1.gl.m3u8
+#EXTINF:-1 group-title="General",KNR2
+https://soyluiptv.github.io/intl/stream/KNR2.gl.m3u8
+#EXTINF:-1 group-title="General",Nanoq Media
+https://soyluiptv.github.io/intl/stream/NanoqMedia.gl.m3u8

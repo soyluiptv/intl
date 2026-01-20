@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Chiconi FM-TV
+https://soyluiptv.github.io/intl/stream/ChiconiFMTV.yt.m3u8
+#EXTINF:-1 group-title="General",Kwezi TV
+https://soyluiptv.github.io/intl/stream/KweziTV.yt.m3u8
+#EXTINF:-1 group-title="General",Mayotte 1ere
+https://soyluiptv.github.io/intl/stream/Mayotte1ere.yt.m3u8
+#EXTINF:-1 group-title="Music",Mayotte One TV
+https://soyluiptv.github.io/intl/stream/MayotteOneTV.yt.m3u8
+#EXTINF:-1 group-title="Music",R-OI-TV
+https://soyluiptv.github.io/intl/stream/ROITV.yt.m3u8
+#EXTINF:-1 group-title="Culture",Telemante
+https://soyluiptv.github.io/intl/stream/Telemante.yt.m3u8

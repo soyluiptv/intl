@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Altyn Asyr
+https://soyluiptv.github.io/intl/stream/AltynAsyr.tm.m3u8
+#EXTINF:-1 group-title="General",Arkadag TV
+https://soyluiptv.github.io/intl/stream/ArkadagTV.tm.m3u8
+#EXTINF:-1 group-title="General",Asgabat
+https://soyluiptv.github.io/intl/stream/Asgabat.tm.m3u8
+#EXTINF:-1 group-title="Culture",Miras
+https://soyluiptv.github.io/intl/stream/Miras.tm.m3u8
+#EXTINF:-1 group-title="General",Turkmenistan
+https://soyluiptv.github.io/intl/stream/Turkmenistan.tm.m3u8
+#EXTINF:-1 group-title="Sports",Turkmenistan Sport
+https://soyluiptv.github.io/intl/stream/TurkmenistanSport.tm.m3u8
+#EXTINF:-1 group-title="Music",Turkmen Owazy
+https://soyluiptv.github.io/intl/stream/TurkmenOwazy.tm.m3u8
+#EXTINF:-1 group-title="Education",Yaslyk
+https://soyluiptv.github.io/intl/stream/Yaslyk.tm.m3u8

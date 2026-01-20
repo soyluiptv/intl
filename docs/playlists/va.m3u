@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Genel",Vatican Media
+https://soyluiptv.github.io/intl/stream/VaticanMedia.va.m3u8
+#EXTINF:-1 group-title="News",Vatican News Deutsch
+https://soyluiptv.github.io/intl/stream/VaticanNewsDeutsch.va.m3u8
+#EXTINF:-1 group-title="News",Vatican News English
+https://soyluiptv.github.io/intl/stream/VaticanNewsEnglish.va.m3u8
+#EXTINF:-1 group-title="News",Vatican News Espanol
+https://soyluiptv.github.io/intl/stream/VaticanNewsEspanol.va.m3u8
+#EXTINF:-1 group-title="News",Vatican News Francais
+https://soyluiptv.github.io/intl/stream/VaticanNewsFrancais.va.m3u8
+#EXTINF:-1 group-title="News",Vatican News Italiano
+https://soyluiptv.github.io/intl/stream/VaticanNewsItaliano.va.m3u8
+#EXTINF:-1 group-title="News",Vatican News Portugues
+https://soyluiptv.github.io/intl/stream/VaticanNewsPortugues.va.m3u8

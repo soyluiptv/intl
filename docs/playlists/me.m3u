@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Adria TV
+https://soyluiptv.github.io/intl/stream/AdriaTV.me.m3u8
+#EXTINF:-1 group-title="General",A Plus TV
+https://soyluiptv.github.io/intl/stream/APlusTV.me.m3u8
+#EXTINF:-1 group-title="Sports",Arena Sport 1
+https://soyluiptv.github.io/intl/stream/ArenaSport1.me.m3u8
+#EXTINF:-1 group-title="Sports",Arena Sport 2
+https://soyluiptv.github.io/intl/stream/ArenaSport2.me.m3u8
+#EXTINF:-1 group-title="Sports",Arena Sport 3
+https://soyluiptv.github.io/intl/stream/ArenaSport3.me.m3u8
+#EXTINF:-1 group-title="Sports",Arena Sport 4
+https://soyluiptv.github.io/intl/stream/ArenaSport4.me.m3u8
+#EXTINF:-1 group-title="Sports",Arena Sport 5
+https://soyluiptv.github.io/intl/stream/ArenaSport5.me.m3u8
+#EXTINF:-1 group-title="News",Euronews Montenegro
+https://soyluiptv.github.io/intl/stream/EuronewsMontenegro.me.m3u8
+#EXTINF:-1 group-title="General",Gradska Televizija
+https://soyluiptv.github.io/intl/stream/GradskaTelevizija.me.m3u8
+#EXTINF:-1 group-title="Travel",LH TV
+https://soyluiptv.github.io/intl/stream/LHTV.me.m3u8
+#EXTINF:-1 group-title="Sports",MNE sport 1
+https://soyluiptv.github.io/intl/stream/MNEsport1.me.m3u8
+#EXTINF:-1 group-title="Sports",MNE sport 2
+https://soyluiptv.github.io/intl/stream/MNEsport2.me.m3u8
+#EXTINF:-1 group-title="Sports",MNE sport 3
+https://soyluiptv.github.io/intl/stream/MNEsport3.me.m3u8
+#EXTINF:-1 group-title="General",Nova TV
+https://soyluiptv.github.io/intl/stream/NovaTV.me.m3u8
+#EXTINF:-1 group-title="Genel",Pink M
+https://soyluiptv.github.io/intl/stream/PinkM.me.m3u8
+#EXTINF:-1 group-title="Genel",Prva Montenegro
+https://soyluiptv.github.io/intl/stream/PrvaMontenegro.me.m3u8
+#EXTINF:-1 group-title="General",Radio televizija Rozaje
+https://soyluiptv.github.io/intl/stream/RadiotelevizijaRozaje.me.m3u8
+#EXTINF:-1 group-title="General",RTV Budva
+https://soyluiptv.github.io/intl/stream/RTVBudva.me.m3u8
+#EXTINF:-1 group-title="General",Srpska TV
+https://soyluiptv.github.io/intl/stream/SrpskaTV.me.m3u8
+#EXTINF:-1 group-title="General",Televizija E
+https://soyluiptv.github.io/intl/stream/TelevizijaE.me.m3u8
+#EXTINF:-1 group-title="Genel",Televizija TV7
+https://soyluiptv.github.io/intl/stream/TelevizijaTV7.me.m3u8
+#EXTINF:-1 group-title="Sports",TV Boin
+https://soyluiptv.github.io/intl/stream/TVBoin.me.m3u8
+#EXTINF:-1 group-title="Genel",TVCG 1
+https://soyluiptv.github.io/intl/stream/TVCG1.me.m3u8
+#EXTINF:-1 group-title="Genel",TVCG 2
+https://soyluiptv.github.io/intl/stream/TVCG2.me.m3u8
+#EXTINF:-1 group-title="Legislative",TVCG 3
+https://soyluiptv.github.io/intl/stream/TVCG3.me.m3u8
+#EXTINF:-1 group-title="Genel",TVCG MNE
+https://soyluiptv.github.io/intl/stream/TVCGMNE.me.m3u8
+#EXTINF:-1 group-title="General",TV Herceg Novi
+https://soyluiptv.github.io/intl/stream/TVHercegNovi.me.m3u8
+#EXTINF:-1 group-title="Genel",TV Niksic
+https://soyluiptv.github.io/intl/stream/TVNiksic.me.m3u8
+#EXTINF:-1 group-title="Genel",TV Pljevlja
+https://soyluiptv.github.io/intl/stream/TVPljevlja.me.m3u8
+#EXTINF:-1 group-title="General",TV Teuta
+https://soyluiptv.github.io/intl/stream/TVTeuta.me.m3u8
+#EXTINF:-1 group-title="Genel",TV Vijesti
+https://soyluiptv.github.io/intl/stream/TVVijesti.me.m3u8
+#EXTINF:-1 group-title="Travel",WOW Montenegro
+https://soyluiptv.github.io/intl/stream/WOWMontenegro.me.m3u8

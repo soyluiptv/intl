@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious",BCN TV
+https://soyluiptv.github.io/intl/stream/BCNTV.bs.m3u8
+#EXTINF:-1 group-title="Movies",Cala Action
+https://soyluiptv.github.io/intl/stream/CalaAction.bs.m3u8
+#EXTINF:-1 group-title="Classic",Cala Classics
+https://soyluiptv.github.io/intl/stream/CalaClassics.bs.m3u8
+#EXTINF:-1 group-title="Weather",Cala Weather
+https://soyluiptv.github.io/intl/stream/CalaWeather.bs.m3u8
+#EXTINF:-1 group-title="Movies",Cala Westerns
+https://soyluiptv.github.io/intl/stream/CalaWesterns.bs.m3u8
+#EXTINF:-1 group-title="News",GO242
+https://soyluiptv.github.io/intl/stream/GO242.bs.m3u8
+#EXTINF:-1 group-title="News",Guardian Talk Radio
+https://soyluiptv.github.io/intl/stream/GuardianTalkRadio.bs.m3u8
+#EXTINF:-1 group-title="Music",HOT 91.7 FM
+https://soyluiptv.github.io/intl/stream/HOT917FM.bs.m3u8
+#EXTINF:-1 group-title="Entertainment",Island Luck TV
+https://soyluiptv.github.io/intl/stream/IslandLuckTV.bs.m3u8
+#EXTINF:-1 group-title="General",JCN Channel 14
+https://soyluiptv.github.io/intl/stream/JCNChannel14.bs.m3u8
+#EXTINF:-1 group-title="News",Our TV
+https://soyluiptv.github.io/intl/stream/OurTV.bs.m3u8
+#EXTINF:-1 group-title="Legislative",The Parliamentary Channel
+https://soyluiptv.github.io/intl/stream/TheParliamentaryChannel.bs.m3u8
+#EXTINF:-1 group-title="Music",VIBES 93.1 FM
+https://soyluiptv.github.io/intl/stream/VIBES931FM.bs.m3u8
+#EXTINF:-1 group-title="General",ZNS-TV
+https://soyluiptv.github.io/intl/stream/ZNSTV.bs.m3u8

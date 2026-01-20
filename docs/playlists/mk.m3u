@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Alfa TV
+https://soyluiptv.github.io/intl/stream/AlfaTV.mk.m3u8
+#EXTINF:-1 group-title="General",Alsat
+https://soyluiptv.github.io/intl/stream/Alsat.mk.m3u8
+#EXTINF:-1 group-title="Music",Balkan Music TV
+https://soyluiptv.github.io/intl/stream/BalkanMusicTV.mk.m3u8
+#EXTINF:-1 group-title="General",Cool TV
+https://soyluiptv.github.io/intl/stream/CoolTV.mk.m3u8
+#EXTINF:-1 group-title="Music",Folk TV
+https://soyluiptv.github.io/intl/stream/FolkTV.mk.m3u8
+#EXTINF:-1 group-title="Music",Hi Music TV
+https://soyluiptv.github.io/intl/stream/HiMusicTV.mk.m3u8
+#EXTINF:-1 group-title="Music",Jazz TV
+https://soyluiptv.github.io/intl/stream/JazzTV.mk.m3u8
+#EXTINF:-1 group-title="General",Kanal 5
+https://soyluiptv.github.io/intl/stream/Kanal5.mk.m3u8
+#EXTINF:-1 group-title="General",Kanal 8
+https://soyluiptv.github.io/intl/stream/Kanal8.mk.m3u8
+#EXTINF:-1 group-title="General",Klan Macedonia
+https://soyluiptv.github.io/intl/stream/KlanMacedonia.mk.m3u8
+#EXTINF:-1 group-title="General",Koha TV
+https://soyluiptv.github.io/intl/stream/KohaTV.mk.m3u8
+#EXTINF:-1 group-title="General",KTV
+https://soyluiptv.github.io/intl/stream/KTV.mk.m3u8
+#EXTINF:-1 group-title="Music",Love TV
+https://soyluiptv.github.io/intl/stream/LoveTV.mk.m3u8
+#EXTINF:-1 group-title="General",Makedonsko Sonce
+https://soyluiptv.github.io/intl/stream/MakedonskoSonce.mk.m3u8
+#EXTINF:-1 group-title="General",M-Net HD
+https://soyluiptv.github.io/intl/stream/MNetHD.mk.m3u8
+#EXTINF:-1 group-title="News",M-Net Info
+https://soyluiptv.github.io/intl/stream/MNetInfo.mk.m3u8
+#EXTINF:-1 group-title="Kids",M-Net Kids
+https://soyluiptv.github.io/intl/stream/MNetKids.mk.m3u8
+#EXTINF:-1 group-title="Sports",M-Net Sport
+https://soyluiptv.github.io/intl/stream/MNetSport.mk.m3u8
+#EXTINF:-1 group-title="General",MRT 1
+https://soyluiptv.github.io/intl/stream/MRT1.mk.m3u8
+#EXTINF:-1 group-title="General",MRT 1 Sat
+https://soyluiptv.github.io/intl/stream/MRT1Sat.mk.m3u8
+#EXTINF:-1 group-title="Culture",MRT 2
+https://soyluiptv.github.io/intl/stream/MRT2.mk.m3u8
+#EXTINF:-1 group-title="Culture",MRT 2 Sat
+https://soyluiptv.github.io/intl/stream/MRT2Sat.mk.m3u8
+#EXTINF:-1 group-title="Sports",MRT 3
+https://soyluiptv.github.io/intl/stream/MRT3.mk.m3u8
+#EXTINF:-1 group-title="Genel",MRT 4
+https://soyluiptv.github.io/intl/stream/MRT4.mk.m3u8
+#EXTINF:-1 group-title="Genel",MRT 5
+https://soyluiptv.github.io/intl/stream/MRT5.mk.m3u8
+#EXTINF:-1 group-title="Legislative",MRT Sobraniski kanal
+https://soyluiptv.github.io/intl/stream/MRTSobraniskikanal.mk.m3u8
+#EXTINF:-1 group-title="General",MTM
+https://soyluiptv.github.io/intl/stream/MTM.mk.m3u8
+#EXTINF:-1 group-title="General",Nasa TV
+https://soyluiptv.github.io/intl/stream/NasaTV.mk.m3u8
+#EXTINF:-1 group-title="News",News33.tv
+https://soyluiptv.github.io/intl/stream/News33tv.mk.m3u8
+#EXTINF:-1 group-title="General",Prva Skopska TV
+https://soyluiptv.github.io/intl/stream/PrvaSkopskaTV.mk.m3u8
+#EXTINF:-1 group-title="Music",Rock TV
+https://soyluiptv.github.io/intl/stream/RockTV.mk.m3u8
+#EXTINF:-1 group-title="Genel",Sitel
+https://soyluiptv.github.io/intl/stream/Sitel.mk.m3u8
+#EXTINF:-1 group-title="Music",Sky Folk TV
+https://soyluiptv.github.io/intl/stream/SkyFolkTV.mk.m3u8
+#EXTINF:-1 group-title="General",Spektra TV
+https://soyluiptv.github.io/intl/stream/SpektraTV.mk.m3u8
+#EXTINF:-1 group-title="Music",Star Folk TV
+https://soyluiptv.github.io/intl/stream/StarFolkTV.mk.m3u8
+#EXTINF:-1 group-title="Music",Star Plus Televizija
+https://soyluiptv.github.io/intl/stream/StarPlusTelevizija.mk.m3u8
+#EXTINF:-1 group-title="General",Sutel TV
+https://soyluiptv.github.io/intl/stream/SutelTV.mk.m3u8
+#EXTINF:-1 group-title="General",Televizija Kobra
+https://soyluiptv.github.io/intl/stream/TelevizijaKobra.mk.m3u8
+#EXTINF:-1 group-title="General",Televizija Protel
+https://soyluiptv.github.io/intl/stream/TelevizijaProtel.mk.m3u8
+#EXTINF:-1 group-title="General",Televizija Star
+https://soyluiptv.github.io/intl/stream/TelevizijaStar.mk.m3u8
+#EXTINF:-1 group-title="Genel",Telma TV
+https://soyluiptv.github.io/intl/stream/TelmaTV.mk.m3u8
+#EXTINF:-1 group-title="General",Tera TV
+https://soyluiptv.github.io/intl/stream/TeraTV.mk.m3u8
+#EXTINF:-1 group-title="Music",TopEstrada TV
+https://soyluiptv.github.io/intl/stream/TopEstradaTV.mk.m3u8
+#EXTINF:-1 group-title="Genel",TV21
+https://soyluiptv.github.io/intl/stream/TV21.mk.m3u8
+#EXTINF:-1 group-title="Genel",TV 24
+https://soyluiptv.github.io/intl/stream/TV24.mk.m3u8
+#EXTINF:-1 group-title="General",TV2 Gostivar
+https://soyluiptv.github.io/intl/stream/TV2Gostivar.mk.m3u8
+#EXTINF:-1 group-title="General",TV Edo
+https://soyluiptv.github.io/intl/stream/TVEdo.mk.m3u8
+#EXTINF:-1 group-title="Entertainment",TV ERA
+https://soyluiptv.github.io/intl/stream/TVERA.mk.m3u8
+#EXTINF:-1 group-title="General",TV Festa
+https://soyluiptv.github.io/intl/stream/TVFesta.mk.m3u8
+#EXTINF:-1 group-title="General",TV Globi
+https://soyluiptv.github.io/intl/stream/TVGlobi.mk.m3u8
+#EXTINF:-1 group-title="General",TV Gurra
+https://soyluiptv.github.io/intl/stream/TVGurra.mk.m3u8
+#EXTINF:-1 group-title="Genel",TV Iris
+https://soyluiptv.github.io/intl/stream/TVIris.mk.m3u8
+#EXTINF:-1 group-title="General",TV Kaltrina
+https://soyluiptv.github.io/intl/stream/TVKaltrina.mk.m3u8
+#EXTINF:-1 group-title="General",TV Kanal VIS
+https://soyluiptv.github.io/intl/stream/TVKanalVIS.mk.m3u8
+#EXTINF:-1 group-title="General",TV KISS & Menada
+https://soyluiptv.github.io/intl/stream/TVKISSMenada.mk.m3u8
+#EXTINF:-1 group-title="General",TVM Televizija
+https://soyluiptv.github.io/intl/stream/TVMTelevizija.mk.m3u8
+#EXTINF:-1 group-title="General",TV NOVA 12
+https://soyluiptv.github.io/intl/stream/TVNOVA12.mk.m3u8
+#EXTINF:-1 group-title="General",TV Orbis
+https://soyluiptv.github.io/intl/stream/TVOrbis.mk.m3u8
+#EXTINF:-1 group-title="Genel",TVPlus
+https://soyluiptv.github.io/intl/stream/TVPlus.mk.m3u8
+#EXTINF:-1 group-title="General",TV Pollogu
+https://soyluiptv.github.io/intl/stream/TVPollogu.mk.m3u8
+#EXTINF:-1 group-title="Genel",TV Shenja
+https://soyluiptv.github.io/intl/stream/TVShenja.mk.m3u8
+#EXTINF:-1 group-title="Genel",TV Sonce
+https://soyluiptv.github.io/intl/stream/TVSonce.mk.m3u8
+#EXTINF:-1 group-title="General",TV Svet
+https://soyluiptv.github.io/intl/stream/TVSvet.mk.m3u8
+#EXTINF:-1 group-title="General",TV Uskana
+https://soyluiptv.github.io/intl/stream/TVUskana.mk.m3u8
+#EXTINF:-1 group-title="General",TV Zdravkin
+https://soyluiptv.github.io/intl/stream/TVZdravkin.mk.m3u8
+#EXTINF:-1 group-title="Culture",V TV
+https://soyluiptv.github.io/intl/stream/VTV.mk.m3u8

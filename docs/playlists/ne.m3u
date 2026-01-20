@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="News",Anfani TV
+https://soyluiptv.github.io/intl/stream/AnfaniTV.ne.m3u8
+#EXTINF:-1 group-title="General",Annour TV
+https://soyluiptv.github.io/intl/stream/AnnourTV.ne.m3u8
+#EXTINF:-1 group-title="News",Bonferey
+https://soyluiptv.github.io/intl/stream/Bonferey.ne.m3u8
+#EXTINF:-1 group-title="General",Canal 3 Monde
+https://soyluiptv.github.io/intl/stream/Canal3Monde.ne.m3u8
+#EXTINF:-1 group-title="General",Canal 3 Niger
+https://soyluiptv.github.io/intl/stream/Canal3Niger.ne.m3u8
+#EXTINF:-1 group-title="General",Dounia TV
+https://soyluiptv.github.io/intl/stream/DouniaTV.ne.m3u8
+#EXTINF:-1 group-title="General",Esperance TV
+https://soyluiptv.github.io/intl/stream/EsperanceTV.ne.m3u8
+#EXTINF:-1 group-title="Religious",Fidelite TV
+https://soyluiptv.github.io/intl/stream/FideliteTV.ne.m3u8
+#EXTINF:-1 group-title="News",Labari TV
+https://soyluiptv.github.io/intl/stream/LabariTV.ne.m3u8
+#EXTINF:-1 group-title="Music",Liptako TV
+https://soyluiptv.github.io/intl/stream/LiptakoTV.ne.m3u8
+#EXTINF:-1 group-title="News",Niger 24
+https://soyluiptv.github.io/intl/stream/Niger24.ne.m3u8
+#EXTINF:-1 group-title="News",Saraounia TV
+https://soyluiptv.github.io/intl/stream/SaraouniaTV.ne.m3u8
+#EXTINF:-1 group-title="Religious",Sunna TV Ayneha
+https://soyluiptv.github.io/intl/stream/SunnaTVAyneha.ne.m3u8
+#EXTINF:-1 group-title="Entertainment",Tal TV
+https://soyluiptv.github.io/intl/stream/TalTV.ne.m3u8
+#EXTINF:-1 group-title="General",Tambara TV
+https://soyluiptv.github.io/intl/stream/TambaraTV.ne.m3u8
+#EXTINF:-1 group-title="Entertainment",Tauraruwa TV
+https://soyluiptv.github.io/intl/stream/TauraruwaTV.ne.m3u8
+#EXTINF:-1 group-title="General",Tele Sahel
+https://soyluiptv.github.io/intl/stream/TeleSahel.ne.m3u8
+#EXTINF:-1 group-title="General",Tenere TV
+https://soyluiptv.github.io/intl/stream/TenereTV.ne.m3u8
+#EXTINF:-1 group-title="General",Wangari TV
+https://soyluiptv.github.io/intl/stream/WangariTV.ne.m3u8

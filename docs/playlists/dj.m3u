@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",RTD
+https://soyluiptv.github.io/intl/stream/RTD.dj.m3u8
+#EXTINF:-1 group-title="General",RTD 1
+https://soyluiptv.github.io/intl/stream/RTD1.dj.m3u8
+#EXTINF:-1 group-title="General",RTD 2
+https://soyluiptv.github.io/intl/stream/RTD2.dj.m3u8
+#EXTINF:-1 group-title="General",RTD 3
+https://soyluiptv.github.io/intl/stream/RTD3.dj.m3u8
+#EXTINF:-1 group-title="General",RTD 4
+https://soyluiptv.github.io/intl/stream/RTD4.dj.m3u8
+#EXTINF:-1 group-title="General",RTD 5
+https://soyluiptv.github.io/intl/stream/RTD5.dj.m3u8
+#EXTINF:-1 group-title="Movies",RTD 6
+https://soyluiptv.github.io/intl/stream/RTD6.dj.m3u8
+#EXTINF:-1 group-title="General",RTD 7
+https://soyluiptv.github.io/intl/stream/RTD7.dj.m3u8

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",Channel 82
+https://soyluiptv.github.io/intl/stream/Channel82.bm.m3u8
+#EXTINF:-1 group-title="Legislative",CITV
+https://soyluiptv.github.io/intl/stream/CITV.bm.m3u8
+#EXTINF:-1 group-title="General",Fresh TV
+https://soyluiptv.github.io/intl/stream/FreshTV.bm.m3u8
+#EXTINF:-1 group-title="General",ZBM-TV
+https://soyluiptv.github.io/intl/stream/ZBMTV.bm.m3u8
+#EXTINF:-1 group-title="General",ZFB-TV
+https://soyluiptv.github.io/intl/stream/ZFBTV.bm.m3u8

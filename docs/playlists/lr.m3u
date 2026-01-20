@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Ablee-Jay TV
+https://soyluiptv.github.io/intl/stream/AbleeJayTV.lr.m3u8
+#EXTINF:-1 group-title="Entertainment",BOSSS TV
+https://soyluiptv.github.io/intl/stream/BOSSSTV.lr.m3u8
+#EXTINF:-1 group-title="General",CLAR TV
+https://soyluiptv.github.io/intl/stream/CLARTV.lr.m3u8
+#EXTINF:-1 group-title="General",DC TV
+https://soyluiptv.github.io/intl/stream/DCTV.lr.m3u8
+#EXTINF:-1 group-title="General",Farbric TV
+https://soyluiptv.github.io/intl/stream/FarbricTV.lr.m3u8
+#EXTINF:-1 group-title="Music",Hott TV
+https://soyluiptv.github.io/intl/stream/HottTV.lr.m3u8
+#EXTINF:-1 group-title="Sports",Intel Sports TV
+https://soyluiptv.github.io/intl/stream/IntelSportsTV.lr.m3u8
+#EXTINF:-1 group-title="General",Joy TV
+https://soyluiptv.github.io/intl/stream/JoyTV.lr.m3u8
+#EXTINF:-1 group-title="Entertainment",JujuAfrica TV
+https://soyluiptv.github.io/intl/stream/JujuAfricaTV.lr.m3u8
+#EXTINF:-1 group-title="News",KMTV News
+https://soyluiptv.github.io/intl/stream/KMTVNews.lr.m3u8
+#EXTINF:-1 group-title="General",LNTV
+https://soyluiptv.github.io/intl/stream/LNTV.lr.m3u8
+#EXTINF:-1 group-title="General",Power TV
+https://soyluiptv.github.io/intl/stream/PowerTV.lr.m3u8
+#EXTINF:-1 group-title="Entertainment",Pumah TV
+https://soyluiptv.github.io/intl/stream/PumahTV.lr.m3u8
+#EXTINF:-1 group-title="Religious",RCR TV
+https://soyluiptv.github.io/intl/stream/RCRTV.lr.m3u8
+#EXTINF:-1 group-title="Entertainment",Real TV
+https://soyluiptv.github.io/intl/stream/RealTV.lr.m3u8
+#EXTINF:-1 group-title="General",SAM TV
+https://soyluiptv.github.io/intl/stream/SAMTV.lr.m3u8
+#EXTINF:-1 group-title="General",Sky TV
+https://soyluiptv.github.io/intl/stream/SkyTV.lr.m3u8
+#EXTINF:-1 group-title="General",Spoon TV
+https://soyluiptv.github.io/intl/stream/SpoonTV.lr.m3u8
+#EXTINF:-1 group-title="General",Super TV
+https://soyluiptv.github.io/intl/stream/SuperTV.lr.m3u8
+#EXTINF:-1 group-title="General",Tamma TV
+https://soyluiptv.github.io/intl/stream/TammaTV.lr.m3u8

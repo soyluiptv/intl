@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",1TV
+https://soyluiptv.github.io/intl/stream/1TV.ge.m3u8
+#EXTINF:-1 group-title="General",2 TV
+https://soyluiptv.github.io/intl/stream/2TV.ge.m3u8
+#EXTINF:-1 group-title="Sports",Adjarasport 1
+https://soyluiptv.github.io/intl/stream/Adjarasport1.ge.m3u8
+#EXTINF:-1 group-title="Sports",Adjarasport 2
+https://soyluiptv.github.io/intl/stream/Adjarasport2.ge.m3u8
+#EXTINF:-1 group-title="Outdoor",Agrogaremo TV
+https://soyluiptv.github.io/intl/stream/AgrogaremoTV.ge.m3u8
+#EXTINF:-1 group-title="Outdoor",Agro TV
+https://soyluiptv.github.io/intl/stream/AgroTV.ge.m3u8
+#EXTINF:-1 group-title="General",Ajara TV
+https://soyluiptv.github.io/intl/stream/AjaraTV.ge.m3u8
+#EXTINF:-1 group-title="News",Alt-Info TV
+https://soyluiptv.github.io/intl/stream/AltInfoTV.ge.m3u8
+#EXTINF:-1 group-title="General",Apsua TV
+https://soyluiptv.github.io/intl/stream/ApsuaTV.ge.m3u8
+#EXTINF:-1 group-title="General",Argo TV
+https://soyluiptv.github.io/intl/stream/ArgoTV.ge.m3u8
+#EXTINF:-1 group-title="Culture",Artarea TV
+https://soyluiptv.github.io/intl/stream/ArtareaTV.ge.m3u8
+#EXTINF:-1 group-title="Kids",Basti Bubu
+https://soyluiptv.github.io/intl/stream/BastiBubu.ge.m3u8
+#EXTINF:-1 group-title="General",Batumi TV
+https://soyluiptv.github.io/intl/stream/BatumiTV.ge.m3u8
+#EXTINF:-1 group-title="Business",BMG TV
+https://soyluiptv.github.io/intl/stream/BMGTV.ge.m3u8
+#EXTINF:-1 group-title="General",Borjomi TV
+https://soyluiptv.github.io/intl/stream/BorjomiTV.ge.m3u8
+#EXTINF:-1 group-title="General",Channel Five
+https://soyluiptv.github.io/intl/stream/ChannelFive.ge.m3u8
+#EXTINF:-1 group-title="Sports",Chess TV
+https://soyluiptv.github.io/intl/stream/ChessTV.ge.m3u8
+#EXTINF:-1 group-title="General",Chveni Magti
+https://soyluiptv.github.io/intl/stream/ChveniMagti.ge.m3u8
+#EXTINF:-1 group-title="Comedy",Comedy TV
+https://soyluiptv.github.io/intl/stream/ComedyTV.ge.m3u8
+#EXTINF:-1 group-title="Music",Dardimandi
+https://soyluiptv.github.io/intl/stream/Dardimandi.ge.m3u8
+#EXTINF:-1 group-title="News",Dia TV
+https://soyluiptv.github.io/intl/stream/DiaTV.ge.m3u8
+#EXTINF:-1 group-title="General",Egrisi TV
+https://soyluiptv.github.io/intl/stream/EgrisiTV.ge.m3u8
+#EXTINF:-1 group-title="Kids",Enki Benki
+https://soyluiptv.github.io/intl/stream/EnkiBenki.ge.m3u8
+#EXTINF:-1 group-title="News",ERI Media
+https://soyluiptv.github.io/intl/stream/ERIMedia.ge.m3u8
+#EXTINF:-1 group-title="Religious",Ertsulovneba
+https://soyluiptv.github.io/intl/stream/Ertsulovneba.ge.m3u8
+#EXTINF:-1 group-title="News",Euronews Georgia
+https://soyluiptv.github.io/intl/stream/EuronewsGeorgia.ge.m3u8
+#EXTINF:-1 group-title="General",FM Abkhazia
+https://soyluiptv.github.io/intl/stream/FMAbkhazia.ge.m3u8
+#EXTINF:-1 group-title="News",Formula
+https://soyluiptv.github.io/intl/stream/Formula.ge.m3u8
+#EXTINF:-1 group-title="General",Free Channel
+https://soyluiptv.github.io/intl/stream/FreeChannel.ge.m3u8
+#EXTINF:-1 group-title="General",GDS TV
+https://soyluiptv.github.io/intl/stream/GDSTV.ge.m3u8
+#EXTINF:-1 group-title="News",Georgian Times TV
+https://soyluiptv.github.io/intl/stream/GeorgianTimesTV.ge.m3u8
+#EXTINF:-1 group-title="General",Girchi TV
+https://soyluiptv.github.io/intl/stream/GirchiTV.ge.m3u8
+#EXTINF:-1 group-title="General",GMS TV
+https://soyluiptv.github.io/intl/stream/GMSTV.ge.m3u8
+#EXTINF:-1 group-title="Outdoor",Green TV
+https://soyluiptv.github.io/intl/stream/GreenTV.ge.m3u8
+#EXTINF:-1 group-title="General",Guria TV
+https://soyluiptv.github.io/intl/stream/GuriaTV.ge.m3u8
+#EXTINF:-1 group-title="General",Gurjaani TV
+https://soyluiptv.github.io/intl/stream/GurjaaniTV.ge.m3u8
+#EXTINF:-1 group-title="General",Imedi TV
+https://soyluiptv.github.io/intl/stream/ImediTV.ge.m3u8
+#EXTINF:-1 group-title="General",Imervizia
+https://soyluiptv.github.io/intl/stream/Imervizia.ge.m3u8
+#EXTINF:-1 group-title="Culture",Kartuli TV
+https://soyluiptv.github.io/intl/stream/KartuliTV.ge.m3u8
+#EXTINF:-1 group-title="General",Kavkasia TV
+https://soyluiptv.github.io/intl/stream/KavkasiaTV.ge.m3u8
+#EXTINF:-1 group-title="General",Kolkheti 89
+https://soyluiptv.github.io/intl/stream/Kolkheti89.ge.m3u8
+#EXTINF:-1 group-title="Lifestyle",L-TV
+https://soyluiptv.github.io/intl/stream/LTV.ge.m3u8
+#EXTINF:-1 group-title="Genel",Maestro
+https://soyluiptv.github.io/intl/stream/Maestro.ge.m3u8
+#EXTINF:-1 group-title="Genel",Magti Hiti
+https://soyluiptv.github.io/intl/stream/MagtiHiti.ge.m3u8
+#EXTINF:-1 group-title="Movies",Magti Kino
+https://soyluiptv.github.io/intl/stream/MagtiKino.ge.m3u8
+#EXTINF:-1 group-title="Shop",Mall TV
+https://soyluiptv.github.io/intl/stream/MallTV.ge.m3u8
+#EXTINF:-1 group-title="Lifestyle",Marao TV
+https://soyluiptv.github.io/intl/stream/MaraoTV.ge.m3u8
+#EXTINF:-1 group-title="News",Marneuli TV
+https://soyluiptv.github.io/intl/stream/MarneuliTV.ge.m3u8
+#EXTINF:-1 group-title="General",Mega TV
+https://soyluiptv.github.io/intl/stream/MegaTV.ge.m3u8
+#EXTINF:-1 group-title="Weather",Meteo24.tv
+https://soyluiptv.github.io/intl/stream/Meteo24tv.ge.m3u8
+#EXTINF:-1 group-title="General",Mtavari Arkhi
+https://soyluiptv.github.io/intl/stream/MtavariArkhi.ge.m3u8
+#EXTINF:-1 group-title="Music",MusicBox Georgia
+https://soyluiptv.github.io/intl/stream/MusicBoxGeorgia.ge.m3u8
+#EXTINF:-1 group-title="General",Mze TV
+https://soyluiptv.github.io/intl/stream/MzeTV.ge.m3u8
+#EXTINF:-1 group-title="News",NWBC TV
+https://soyluiptv.github.io/intl/stream/NWBCTV.ge.m3u8
+#EXTINF:-1 group-title="News",Obieqtivi TV
+https://soyluiptv.github.io/intl/stream/ObieqtiviTV.ge.m3u8
+#EXTINF:-1 group-title="General",Odishi TV
+https://soyluiptv.github.io/intl/stream/OdishiTV.ge.m3u8
+#EXTINF:-1 group-title="News",Palitra News
+https://soyluiptv.github.io/intl/stream/PalitraNews.ge.m3u8
+#EXTINF:-1 group-title="Legislative",Parliament of Georgia
+https://soyluiptv.github.io/intl/stream/ParliamentofGeorgia.ge.m3u8
+#EXTINF:-1 group-title="General",Parvana TV
+https://soyluiptv.github.io/intl/stream/ParvanaTV.ge.m3u8
+#EXTINF:-1 group-title="General",PKTV
+https://soyluiptv.github.io/intl/stream/PKTV.ge.m3u8
+#EXTINF:-1 group-title="Music",Positive TV
+https://soyluiptv.github.io/intl/stream/PositiveTV.ge.m3u8
+#EXTINF:-1 group-title="General",Pos TV
+https://soyluiptv.github.io/intl/stream/PosTV.ge.m3u8
+#EXTINF:-1 group-title="General",Prime TV
+https://soyluiptv.github.io/intl/stream/PrimeTV.ge.m3u8
+#EXTINF:-1 group-title="Lifestyle",Pulsi TV
+https://soyluiptv.github.io/intl/stream/PulsiTV.ge.m3u8
+#EXTINF:-1 group-title="Genel",Qartuli Arkhi
+https://soyluiptv.github.io/intl/stream/QartuliArkhi.ge.m3u8
+#EXTINF:-1 group-title="General",Quality Channel
+https://soyluiptv.github.io/intl/stream/QualityChannel.ge.m3u8
+#EXTINF:-1 group-title="Genel",Rioni TV
+https://soyluiptv.github.io/intl/stream/RioniTV.ge.m3u8
+#EXTINF:-1 group-title="Genel",Rioni TV 2
+https://soyluiptv.github.io/intl/stream/RioniTV2.ge.m3u8
+#EXTINF:-1 group-title="Religious",Royal Channel
+https://soyluiptv.github.io/intl/stream/RoyalChannel.ge.m3u8
+#EXTINF:-1 group-title="Genel",Rugby TV
+https://soyluiptv.github.io/intl/stream/RugbyTV.ge.m3u8
+#EXTINF:-1 group-title="Genel",Rustavi 2
+https://soyluiptv.github.io/intl/stream/Rustavi2.ge.m3u8
+#EXTINF:-1 group-title="General",Saperavi TV
+https://soyluiptv.github.io/intl/stream/SaperaviTV.ge.m3u8
+#EXTINF:-1 group-title="Education",SDASU TV
+https://soyluiptv.github.io/intl/stream/SDASUTV.ge.m3u8
+#EXTINF:-1 group-title="Sports",Setanta Sports Georgia
+https://soyluiptv.github.io/intl/stream/SetantaSportsGeorgia.ge.m3u8
+#EXTINF:-1 group-title="Sports",Setanta Sports+ Georgia
+https://soyluiptv.github.io/intl/stream/SetantaSportsPlusGeorgia.ge.m3u8
+#EXTINF:-1 group-title="General",Sezoni TV
+https://soyluiptv.github.io/intl/stream/SezoniTV.ge.m3u8
+#EXTINF:-1 group-title="News",Sfero TV
+https://soyluiptv.github.io/intl/stream/SferoTV.ge.m3u8
+#EXTINF:-1 group-title="General",Shoni-TV
+https://soyluiptv.github.io/intl/stream/ShoniTV.ge.m3u8
+#EXTINF:-1 group-title="Genel",Silk Universal
+https://soyluiptv.github.io/intl/stream/SilkUniversal.ge.m3u8
+#EXTINF:-1 group-title="Music",Starvizia
+https://soyluiptv.github.io/intl/stream/Starvizia.ge.m3u8
+#EXTINF:-1 group-title="Entertainment",Stereo Plus
+https://soyluiptv.github.io/intl/stream/StereoPlus.ge.m3u8
+#EXTINF:-1 group-title="Education",TAFU TV
+https://soyluiptv.github.io/intl/stream/TAFUTV.ge.m3u8
+#EXTINF:-1 group-title="General",TOK TV
+https://soyluiptv.github.io/intl/stream/TOKTV.ge.m3u8
+#EXTINF:-1 group-title="News",TV24
+https://soyluiptv.github.io/intl/stream/TV24.ge.m3u8
+#EXTINF:-1 group-title="General",TV 25
+https://soyluiptv.github.io/intl/stream/TV25.ge.m3u8
+#EXTINF:-1 group-title="General",TV 4
+https://soyluiptv.github.io/intl/stream/TV4.ge.m3u8
+#EXTINF:-1 group-title="News",TV9
+https://soyluiptv.github.io/intl/stream/TV9.ge.m3u8
+#EXTINF:-1 group-title="General",TVC
+https://soyluiptv.github.io/intl/stream/TVC.ge.m3u8
+#EXTINF:-1 group-title="General",TV Monitoringi
+https://soyluiptv.github.io/intl/stream/TVMonitoringi.ge.m3u8
+#EXTINF:-1 group-title="Sports",TV O2
+https://soyluiptv.github.io/intl/stream/TVO2.ge.m3u8
+#EXTINF:-1 group-title="General",TV Pirveli
+https://soyluiptv.github.io/intl/stream/TVPirveli.ge.m3u8
+#EXTINF:-1 group-title="General",TV Plus
+https://soyluiptv.github.io/intl/stream/TVPlus.ge.m3u8
+#EXTINF:-1 group-title="General",TV Trialeti
+https://soyluiptv.github.io/intl/stream/TVTrialeti.ge.m3u8

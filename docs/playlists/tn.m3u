@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious",Al Insen TV
+https://soyluiptv.github.io/intl/stream/AlInsenTV.tn.m3u8
+#EXTINF:-1 group-title="General",Al Janoubiya TV
+https://soyluiptv.github.io/intl/stream/AlJanoubiyaTV.tn.m3u8
+#EXTINF:-1 group-title="General",Attessia TV
+https://soyluiptv.github.io/intl/stream/AttessiaTV.tn.m3u8
+#EXTINF:-1 group-title="Entertainment",Baya TV
+https://soyluiptv.github.io/intl/stream/BayaTV.tn.m3u8
+#EXTINF:-1 group-title="Entertainment",Carthage+
+https://soyluiptv.github.io/intl/stream/CarthagePlus.tn.m3u8
+#EXTINF:-1 group-title="General",CNB TV
+https://soyluiptv.github.io/intl/stream/CNBTV.tn.m3u8
+#EXTINF:-1 group-title="General",Elhiwar Ettounsi TV
+https://soyluiptv.github.io/intl/stream/ElhiwarEttounsiTV.tn.m3u8
+#EXTINF:-1 group-title="General",El Watania 1
+https://soyluiptv.github.io/intl/stream/ElWatania1.tn.m3u8
+#EXTINF:-1 group-title="General",El Watania 2
+https://soyluiptv.github.io/intl/stream/ElWatania2.tn.m3u8
+#EXTINF:-1 group-title="Culture",Essaida TV
+https://soyluiptv.github.io/intl/stream/EssaidaTV.tn.m3u8
+#EXTINF:-1 group-title="General",Hannibal TV
+https://soyluiptv.github.io/intl/stream/HannibalTV.tn.m3u8
+#EXTINF:-1 group-title="Music",IFM TV
+https://soyluiptv.github.io/intl/stream/IFMTV.tn.m3u8
+#EXTINF:-1 group-title="Music",Jawhara TV
+https://soyluiptv.github.io/intl/stream/JawharaTV.tn.m3u8
+#EXTINF:-1 group-title="Music",Mosaique FM
+https://soyluiptv.github.io/intl/stream/MosaiqueFM.tn.m3u8
+#EXTINF:-1 group-title="General",Nefzawa TV
+https://soyluiptv.github.io/intl/stream/NefzawaTV.tn.m3u8
+#EXTINF:-1 group-title="General",Nessma El Jadida
+https://soyluiptv.github.io/intl/stream/NessmaElJadida.tn.m3u8
+#EXTINF:-1 group-title="Genel",Radio Nationale Visuelle
+https://soyluiptv.github.io/intl/stream/RadioNationaleVisuelle.tn.m3u8
+#EXTINF:-1 group-title="General",Sahel TV
+https://soyluiptv.github.io/intl/stream/SahelTV.tn.m3u8
+#EXTINF:-1 group-title="Sports",SPLTV
+https://soyluiptv.github.io/intl/stream/SPLTV.tn.m3u8
+#EXTINF:-1 group-title="General",Telvza TV
+https://soyluiptv.github.io/intl/stream/TelvzaTV.tn.m3u8
+#EXTINF:-1 group-title="General",TT1
+https://soyluiptv.github.io/intl/stream/TT1.tn.m3u8
+#EXTINF:-1 group-title="Shop",TunisiaShop TV
+https://soyluiptv.github.io/intl/stream/TunisiaShopTV.tn.m3u8
+#EXTINF:-1 group-title="Business",Tunisie Immobilier TV
+https://soyluiptv.github.io/intl/stream/TunisieImmobilierTV.tn.m3u8
+#EXTINF:-1 group-title="General",Tunisna TV
+https://soyluiptv.github.io/intl/stream/TunisnaTV.tn.m3u8
+#EXTINF:-1 group-title="Education",Watania Educative
+https://soyluiptv.github.io/intl/stream/WataniaEducative.tn.m3u8
+#EXTINF:-1 group-title="Religious",Zitouna TV
+https://soyluiptv.github.io/intl/stream/ZitounaTV.tn.m3u8

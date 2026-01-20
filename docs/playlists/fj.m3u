@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Channel 2
+https://soyluiptv.github.io/intl/stream/Channel2.fj.m3u8
+#EXTINF:-1 group-title="General",FBC 2
+https://soyluiptv.github.io/intl/stream/FBC2.fj.m3u8
+#EXTINF:-1 group-title="Music",FBC Pop
+https://soyluiptv.github.io/intl/stream/FBCPop.fj.m3u8
+#EXTINF:-1 group-title="Sports",FBC Sports
+https://soyluiptv.github.io/intl/stream/FBCSports.fj.m3u8
+#EXTINF:-1 group-title="General",FBC TV
+https://soyluiptv.github.io/intl/stream/FBCTV.fj.m3u8
+#EXTINF:-1 group-title="General",Fiji One
+https://soyluiptv.github.io/intl/stream/FijiOne.fj.m3u8
+#EXTINF:-1 group-title="General",Fiji TV
+https://soyluiptv.github.io/intl/stream/FijiTV.fj.m3u8
+#EXTINF:-1 group-title="Religious",Hope Channel Fiji
+https://soyluiptv.github.io/intl/stream/HopeChannelFiji.fj.m3u8
+#EXTINF:-1 group-title="General",Mai TV
+https://soyluiptv.github.io/intl/stream/MaiTV.fj.m3u8
+#EXTINF:-1 group-title="Legislative",Parliament of Fiji
+https://soyluiptv.github.io/intl/stream/ParliamentofFiji.fj.m3u8

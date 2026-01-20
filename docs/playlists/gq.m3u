@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",Asonga TV
+https://soyluiptv.github.io/intl/stream/AsongaTV.gq.m3u8
+#EXTINF:-1 group-title="General",Canal Sol
+https://soyluiptv.github.io/intl/stream/CanalSol.gq.m3u8
+#EXTINF:-1 group-title="Movies",Sol Cinema
+https://soyluiptv.github.io/intl/stream/SolCinema.gq.m3u8
+#EXTINF:-1 group-title="Education",Sol Educacion
+https://soyluiptv.github.io/intl/stream/SolEducacion.gq.m3u8
+#EXTINF:-1 group-title="Kids",Sol Junior
+https://soyluiptv.github.io/intl/stream/SolJunior.gq.m3u8
+#EXTINF:-1 group-title="Music",Sol Music
+https://soyluiptv.github.io/intl/stream/SolMusic.gq.m3u8
+#EXTINF:-1 group-title="Series",Sol Series
+https://soyluiptv.github.io/intl/stream/SolSeries.gq.m3u8
+#EXTINF:-1 group-title="Entertainment",SolTV
+https://soyluiptv.github.io/intl/stream/SolTV.gq.m3u8
+#EXTINF:-1 group-title="General",TVGE
+https://soyluiptv.github.io/intl/stream/TVGE.gq.m3u8
+#EXTINF:-1 group-title="General",TVGE Internacional
+https://soyluiptv.github.io/intl/stream/TVGEInternacional.gq.m3u8

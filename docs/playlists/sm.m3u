@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Genel",San Marino RTV
+https://soyluiptv.github.io/intl/stream/SanMarinoRTV.sm.m3u8
+#EXTINF:-1 group-title="Sports",San Marino RTV Sport
+https://soyluiptv.github.io/intl/stream/SanMarinoRTVSport.sm.m3u8
