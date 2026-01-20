@@ -1,0 +1,36 @@
+{
+  "name": "iptv-org",
+  "short_name": "iptv-org",
+  "description": "User editable database for TV channels",
+  "id": "/",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "share_target": {
+    "action": "/",
+    "method": "GET",
+    "params": {
+      "text": "q"
+    }
+  }
+}
