@@ -1,1 +1,6 @@
-run = "npm install express cors && node server.js"
+run = "npm install express cors && node replit-server.js"
+language = "nodejs"
+modules = ["nodejs-20"]
+
+[nix]
+channel = "stable-24_05"
