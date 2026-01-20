@@ -48,6 +48,8 @@
     "vitest": "^4.0.14"
   },
   "dependencies": {
-    "@sveltejs/adapter-auto": "^7.0.0"
+    "@sveltejs/adapter-auto": "^7.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
   }
 }
