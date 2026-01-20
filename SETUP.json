@@ -1,0 +1,87 @@
+{
+  "platform": {
+    "name": "SOYLU IPTV",
+    "version": "1.0.0",
+    "language": "Turkish/English",
+    "status": "Active"
+  },
+  "website": {
+    "url": "https://soyluiptv.github.io/intl",
+    "description": "Professional IPTV Platform with Real Channels"
+  },
+  "credentials": {
+    "username": "soylu",
+    "password": "soylu123"
+  },
+  "playlists": {
+    "m3u_turkish": "https://soyluiptv.github.io/intl/playlist-tr.m3u",
+    "m3u_all_countries": "https://soyluiptv.github.io/intl/playlists/{country-code}.m3u",
+    "api_json": "https://soyluiptv.github.io/intl/api.json"
+  },
+  "api_endpoints": {
+    "static": {
+      "base_url": "https://soyluiptv.github.io/intl",
+      "m3u_playlist": "/playlist-tr.m3u",
+      "api_json": "/api.json",
+      "country_playlists": "/playlists/{code}.m3u"
+    },
+    "dynamic_replit": {
+      "base_url": "https://[your-replit-url].replit.dev",
+      "m3u": "/get.php?username=soylu&password=soylu123&type=m3u&country=TR",
+      "xtream": "/get.php?username=soylu&password=soylu123&type=xtream",
+      "json": "/get.php?username=soylu&password=soylu123&type=json",
+      "health": "/health"
+    }
+  },
+  "channels": {
+    "total": 38964,
+    "countries": 250,
+    "turkish_channels": 422
+  },
+  "players": {
+    "vlc": {
+      "platform": "Windows, Mac, Linux",
+      "url": "https://www.videolan.org/",
+      "instruction": "Media → Open Network Stream → Paste M3U URL"
+    },
+    "perfect_player": {
+      "platform": "Android",
+      "type": "Xtream Codes",
+      "instruction": "Add Playlist → Select Xtream Codes → Enter Portal URL and Credentials"
+    },
+    "kodi": {
+      "platform": "Windows, Mac, Linux, Android",
+      "url": "https://kodi.tv",
+      "instruction": "Add-ons → PVR Clients → IPTV Simple Client → Add M3U Playlist URL"
+    }
+  },
+  "deployment": {
+    "github_pages": {
+      "status": "Active",
+      "type": "Static Hosting",
+      "url": "https://soyluiptv.github.io/intl"
+    },
+    "replit": {
+      "status": "Ready for Deployment",
+      "type": "Free Serverless",
+      "import_url": "https://replit.com/github/soyluiptv/intl",
+      "instructions": "Click Fork → Click Run → Copy Public URL"
+    }
+  },
+  "documentation": {
+    "usage_guide": "USAGE_GUIDE.md",
+    "readme_turkish": "README_TR.md",
+    "readme_english": "README.md",
+    "github_repo": "https://github.com/soyluiptv/intl"
+  },
+  "legal": {
+    "purpose": "Educational Only",
+    "license": "Educational Use",
+    "restriction": "Not for Commercial Use",
+    "liability": "Users assume full responsibility"
+  },
+  "support": {
+    "github_issues": "https://github.com/soyluiptv/intl/issues",
+    "web_site": "https://soyluiptv.github.io/intl"
+  }
+}
