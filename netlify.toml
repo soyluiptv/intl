@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  functions = "netlify/functions"
+  publish = ".svelte-kit/output/client"
+
+[[redirects]]
+  from = "/intl/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200

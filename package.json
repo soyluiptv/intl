@@ -46,5 +46,8 @@
     "vite": "^7.2.6",
     "vite-plugin-mkcert": "^1.17.9",
     "vitest": "^4.0.14"
+  },
+  "dependencies": {
+    "@sveltejs/adapter-auto": "^7.0.0"
   }
 }
